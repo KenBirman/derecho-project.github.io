@@ -1,0 +1,20 @@
+<map id="applications/archive/p2p_latency_test.cpp" name="applications/archive/p2p_latency_test.cpp">
+<area shape="rect" id="node3" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="1158,95,1287,121"/>
+<area shape="rect" id="node47" href="$rdmc_2util_8h.html" title="rdmc/util.h" alt="" coords="3372,468,3454,495"/>
+<area shape="rect" id="node4" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="555,639,698,666"/>
+<area shape="rect" id="node7" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2378,550,2506,577"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1004,632,1155,673"/>
+<area shape="rect" id="node18" href="$group_8h.html" title="group.h" alt="" coords="1927,169,1992,196"/>
+<area shape="rect" id="node38" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1412,550,1526,577"/>
+<area shape="rect" id="node43" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="471,393,632,420"/>
+<area shape="rect" id="node44" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2960,468,3106,495"/>
+<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1652,550,1726,577"/>
+<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="2110,244,2268,271"/>
+<area shape="rect" id="node30" href="$replicated_8h.html" title="replicated.h" alt="" coords="1592,319,1682,345"/>
+<area shape="rect" id="node31" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1583,393,1691,420"/>
+<area shape="rect" id="node36" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2172,468,2289,495"/>
+<area shape="rect" id="node42" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2076,393,2172,420"/>
+<area shape="rect" id="node33" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="900,468,982,495"/>
+<area shape="rect" id="node46" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2981,550,3106,577"/>
+<area shape="rect" id="node48" href="$time_8h.html" title="time.h" alt="" coords="3384,550,3442,577"/>
+</map>

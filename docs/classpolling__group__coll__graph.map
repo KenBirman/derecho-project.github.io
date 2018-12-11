@@ -1,7 +1,6 @@
 <map id="polling_group" name="polling_group">
-<area shape="rect" id="node2" href="$classgroup.html" title="group" alt="" coords="769,84,823,111"/>
+<area shape="rect" id="node2" href="$classgroup.html" title="group" alt="" coords="769,81,823,108"/>
 <area shape="rect" id="node7" href="$classschedule.html" title="schedule" alt="" coords="49,157,123,184"/>
-<area shape="rect" id="node8" href="$classrdma_1_1message__type.html" title="rdma::message_type" alt="" coords="724,135,868,161"/>
-<area shape="rect" id="node11" href="$classrdma_1_1queue__pair.html" title="A C++ wrapper for the IB Verbs ibv_qp struct and its associated functions. " alt="" coords="351,244,473,271"/>
-<area shape="rect" id="node17" href="$classrdma_1_1memory__region.html" title="A C++ wrapper for the IB Verbs ibv_mr struct. " alt="" coords="338,412,486,439"/>
+<area shape="rect" id="node17" href="$classrdma_1_1memory__region.html" title="A wrapper for fi_close. " alt="" coords="338,308,486,335"/>
+<area shape="rect" id="node13" href="$classrdma_1_1endpoint.html" title="A C++ wrapper for the libfabric fid_ep struct and its associated functions. " alt="" coords="358,469,466,496"/>
 </map>

@@ -1,21 +1,51 @@
 <map id="derecho/subgroup_info.h" name="derecho/subgroup_info.h">
-<area shape="rect" id="node2" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="330,80,505,107"/>
-<area shape="rect" id="node3" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="198,237,365,263"/>
-<area shape="rect" id="node5" href="$group_8h.html" title="derecho/group.h" alt="" coords="277,572,392,599"/>
-<area shape="rect" id="node16" href="$subgroup__function__tester_8h.html" title="derecho/subgroup_function\l_tester.h" alt="" coords="824,229,1003,271"/>
-<area shape="rect" id="node20" href="$subgroup__functions_8h.html" title="derecho/subgroup_functions.h" alt="" coords="597,155,793,181"/>
-<area shape="rect" id="node14" href="$multicast__group_8cpp.html" title="derecho/multicast_group.cpp" alt="" coords="191,155,380,181"/>
-<area shape="rect" id="node15" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="455,155,566,181"/>
-<area shape="rect" id="node4" href="$raw__subgroup_8h.html" title="derecho/raw_subgroup.h" alt="" coords="94,326,258,353"/>
-<area shape="rect" id="node9" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="489,326,647,353"/>
-<area shape="rect" id="node13" href="$view__manager_8cpp.html" title="derecho/view_manager.cpp" alt="" coords="283,326,464,353"/>
-<area shape="rect" id="node8" href="$raw__subgroup_8cpp.html" title="derecho/raw_subgroup.cpp" alt="" coords="93,408,272,435"/>
-<area shape="rect" id="node6" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="107,647,237,673"/>
-<area shape="rect" id="node7" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="261,647,408,673"/>
-<area shape="rect" id="node10" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="448,408,587,435"/>
-<area shape="rect" id="node12" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="611,408,783,435"/>
-<area shape="rect" id="node11" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="397,483,536,524"/>
-<area shape="rect" id="node18" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="589,237,800,263"/>
-<area shape="rect" id="node19" href="$view_8cpp.html" title="derecho/view.cpp" alt="" coords="441,237,565,263"/>
-<area shape="rect" id="node17" href="$subgroup__function__tester_8cpp.html" title="derecho/subgroup_function\l_tester.cpp" alt="" coords="824,319,1003,360"/>
+<area shape="rect" id="node2" href="$subgroup__functions_8h.html" title="derecho/subgroup_functions.h" alt="" coords="2562,80,2758,107"/>
+<area shape="rect" id="node3" href="$subgroup__function__tester_8h.html" title="applications/tests\l/unit_tests/subgroup\l_function_tester.h" alt="" coords="2371,155,2511,211"/>
+<area shape="rect" id="node5" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2842,363,2971,389"/>
+<area shape="rect" id="node47" href="$group_8h.html" title="derecho/group.h" alt="" coords="2849,273,2964,300"/>
+<area shape="rect" id="node48" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="2907,80,3082,107"/>
+<area shape="rect" id="node49" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="2897,169,3063,196"/>
+<area shape="rect" id="node50" href="$restart__state_8h.html" title="derecho/restart_state.h" alt="" coords="3106,80,3262,107"/>
+<area shape="rect" id="node46" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="2587,169,2797,196"/>
+<area shape="rect" id="node4" href="$subgroup__function__tester_8cpp.html" title="applications/tests\l/unit_tests/subgroup\l_function_tester.cpp" alt="" coords="2371,259,2511,315"/>
+<area shape="rect" id="node6" href="$asynchronous__dht_8cpp.html" title="applications/archive\l/asynchronous_dht.cpp" alt="" coords="5,445,163,486"/>
+<area shape="rect" id="node7" href="$derecho__caller__test_8cpp.html" title="applications/archive\l/derecho_caller_test.cpp" alt="" coords="187,445,351,486"/>
+<area shape="rect" id="node8" href="$gms__bw__test_8cpp.html" title="applications/archive\l/gms_bw_test.cpp" alt="" coords="375,445,513,486"/>
+<area shape="rect" id="node9" href="$gms__test_8cpp.html" title="applications/archive\l/gms_test.cpp" alt="" coords="537,445,674,486"/>
+<area shape="rect" id="node10" href="$gms__test2_8cpp.html" title="applications/archive\l/gms_test2.cpp" alt="" coords="698,445,835,486"/>
+<area shape="rect" id="node11" href="$latency__test_8cpp.html" title="applications/archive\l/latency_test.cpp" alt="" coords="859,445,997,486"/>
+<area shape="rect" id="node12" href="$long__subgroup__test_8cpp.html" title="applications/archive\l/long_subgroup_test.cpp" alt="" coords="795,541,959,583"/>
+<area shape="rect" id="node13" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="1123,445,1261,486"/>
+<area shape="rect" id="node14" href="$p2p__query__test_8cpp.html" title="applications/archive\l/p2p_query_test.cpp" alt="" coords="983,541,1123,583"/>
+<area shape="rect" id="node15" href="$repeated__rpc__test_8cpp.html" title="applications/archive\l/repeated_rpc_test.cpp" alt="" coords="1148,541,1303,583"/>
+<area shape="rect" id="node16" href="$scaling__subgroup__test_8cpp.html" title="applications/archive\l/scaling_subgroup_test.cpp" alt="" coords="1327,541,1508,583"/>
+<area shape="rect" id="node17" href="$typed__subgroup__test_8cpp.html" title="applications/archive\l/typed_subgroup_test.cpp" alt="" coords="1533,541,1705,583"/>
+<area shape="rect" id="node18" href="$multiple__senders__multiple__messages_8cpp.html" title="applications/archive\l/multiple_senders_multiple\l_messages.cpp" alt="" coords="1437,437,1613,493"/>
+<area shape="rect" id="node19" href="$objstore_8cpp.html" title="applications/archive\l/objstore.cpp" alt="" coords="1638,445,1775,486"/>
+<area shape="rect" id="node20" href="$p2p__latency__test_8cpp.html" title="applications/archive\l/p2p_latency_test.cpp" alt="" coords="1799,445,1950,486"/>
+<area shape="rect" id="node21" href="$persistent__latency__test_8cpp.html" title="applications/archive\l/persistent_latency_test.cpp" alt="" coords="1975,445,2161,486"/>
+<area shape="rect" id="node22" href="$persistent__rejoin__test_8cpp.html" title="applications/archive\l/persistent_rejoin_test.cpp" alt="" coords="2186,445,2361,486"/>
+<area shape="rect" id="node23" href="$persistent__temporal__query__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_query_test.cpp" alt="" coords="2385,437,2525,493"/>
+<area shape="rect" id="node24" href="$persistent__temporal__stability__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_stability_test.cpp" alt="" coords="2549,437,2689,493"/>
+<area shape="rect" id="node25" href="$persistent__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_bw_test.cpp" alt="" coords="2713,437,2895,493"/>
+<area shape="rect" id="node26" href="$persistent__typed__subgroup__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_test.cpp" alt="" coords="2919,437,3102,493"/>
+<area shape="rect" id="node27" href="$persistent__vector_8cpp.html" title="applications/archive\l/persistent_vector.cpp" alt="" coords="3126,445,3277,486"/>
+<area shape="rect" id="node28" href="$raw__send__test_8cpp.html" title="applications/archive\l/raw_send_test.cpp" alt="" coords="3301,445,3438,486"/>
+<area shape="rect" id="node29" href="$server__client__p2p_8cpp.html" title="applications/archive\l/server_client_p2p.cpp" alt="" coords="3462,445,3615,486"/>
+<area shape="rect" id="node30" href="$shard__iterator__p2p__test_8cpp.html" title="applications/archive\l/shard_iterator_p2p_test.cpp" alt="" coords="3640,445,3827,486"/>
+<area shape="rect" id="node31" href="$simple__send_8cpp.html" title="applications/archive\l/simple_send.cpp" alt="" coords="3851,445,3989,486"/>
+<area shape="rect" id="node32" href="$single__sender__multiple__messages_8cpp.html" title="applications/archive\l/single_sender_multiple\l_messages.cpp" alt="" coords="4013,437,4171,493"/>
+<area shape="rect" id="node33" href="$single__sender__one__message_8cpp.html" title="applications/archive\l/single_sender_one_message.cpp" alt="" coords="4196,445,4415,486"/>
+<area shape="rect" id="node34" href="$smart__membership__function__test_8cpp.html" title="applications/archive\l/smart_membership_function\l_test.cpp" alt="" coords="4439,437,4630,493"/>
+<area shape="rect" id="node35" href="$ssd__bw__test_8cpp.html" title="applications/archive\l/ssd_bw_test.cpp" alt="" coords="4654,445,4791,486"/>
+<area shape="rect" id="node36" href="$subgroup__scaling__test_8cpp.html" title="applications/archive\l/subgroup_scaling_test.cpp" alt="" coords="4816,445,4997,486"/>
+<area shape="rect" id="node37" href="$subgroup__test_8cpp.html" title="applications/archive\l/subgroup_test.cpp" alt="" coords="5022,445,5159,486"/>
+<area shape="rect" id="node38" href="$test__group__interface_8cpp.html" title="applications/archive\l/test_group_interface.cpp" alt="" coords="5183,445,5353,486"/>
+<area shape="rect" id="node39" href="$timeline__test_8cpp.html" title="applications/archive\l/timeline_test.cpp" alt="" coords="5377,445,5514,486"/>
+<area shape="rect" id="node40" href="$total__restart__test_8cpp.html" title="This experiment creates a group with a simple persistent object (containing only an integer as state)..." alt="" coords="5539,445,5688,486"/>
+<area shape="rect" id="node41" href="$typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/typed_subgroup_bw_test.cpp" alt="" coords="5713,445,5909,486"/>
+<area shape="rect" id="node42" href="$viewchange__timeline_8cpp.html" title="applications/archive\l/viewchange_timeline.cpp" alt="" coords="5933,445,6105,486"/>
+<area shape="rect" id="node43" href="$volatile__temporal__query__test_8cpp.html" title="applications/archive\l/volatile_temporal_query\l_test.cpp" alt="" coords="6129,437,6292,493"/>
+<area shape="rect" id="node44" href="$volatile__temporal__stability__test_8cpp.html" title="applications/archive\l/volatile_temporal_stability\l_test.cpp" alt="" coords="6316,437,6492,493"/>
+<area shape="rect" id="node45" href="$volatile__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/volatile_typed_subgroup\l_bw_test.cpp" alt="" coords="6517,437,6683,493"/>
 </map>

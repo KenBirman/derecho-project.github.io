@@ -1,7 +1,8 @@
 <map id="sst/predicates.h" name="sst/predicates.h">
-<area shape="rect" id="node7" href="$sst_8h.html" title="sst.h" alt="" coords="733,80,784,107"/>
-<area shape="rect" id="node20" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="389,155,454,181"/>
-<area shape="rect" id="node23" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1319,155,1401,181"/>
-<area shape="rect" id="node27" href="$time_8h.html" title="time.h" alt="" coords="1529,229,1588,256"/>
-<area shape="rect" id="node30" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="710,229,794,256"/>
+<area shape="rect" id="node7" href="$sst_8h.html" title="sst.h" alt="" coords="905,80,956,107"/>
+<area shape="rect" id="node20" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="849,229,889,256"/>
+<area shape="rect" id="node24" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1237,155,1320,181"/>
+<area shape="rect" id="node23" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="633,304,783,345"/>
+<area shape="rect" id="node28" href="$time_8h.html" title="time.h" alt="" coords="1015,229,1073,256"/>
+<area shape="rect" id="node31" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1525,229,1609,256"/>
 </map>

@@ -1,0 +1,19 @@
+<map id="applications/archive/scaling_subgroup_test.cpp" name="applications/archive/scaling_subgroup_test.cpp">
+<area shape="rect" id="node6" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2879,169,3009,196"/>
+<area shape="rect" id="node50" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="985,95,1089,121"/>
+<area shape="rect" id="node7" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3217,714,3359,741"/>
+<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1981,625,2109,651"/>
+<area shape="rect" id="node17" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="2719,707,2870,748"/>
+<area shape="rect" id="node20" href="$group_8h.html" title="group.h" alt="" coords="1798,244,1863,271"/>
+<area shape="rect" id="node41" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1029,625,1144,651"/>
+<area shape="rect" id="node46" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="3027,468,3189,495"/>
+<area shape="rect" id="node47" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="451,543,597,569"/>
+<area shape="rect" id="node28" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1681,625,1754,651"/>
+<area shape="rect" id="node29" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1321,319,1479,345"/>
+<area shape="rect" id="node33" href="$replicated_8h.html" title="replicated.h" alt="" coords="1970,393,2059,420"/>
+<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="2265,468,2373,495"/>
+<area shape="rect" id="node39" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1080,543,1197,569"/>
+<area shape="rect" id="node45" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2519,468,2615,495"/>
+<area shape="rect" id="node36" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="2277,543,2360,569"/>
+<area shape="rect" id="node49" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="381,625,507,651"/>
+</map>

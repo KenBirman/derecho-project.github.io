@@ -1,26 +1,4 @@
 <map id="rdmc/verbs_helper.h" name="rdmc/verbs_helper.h">
-<area shape="rect" id="node2" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="789,80,884,107"/>
-<area shape="rect" id="node21" href="$experiment_8cpp.html" title="rdmc/experiment.cpp" alt="" coords="455,155,599,181"/>
-<area shape="rect" id="node22" href="$group__send_8h.html" title="rdmc/group_send.h" alt="" coords="874,155,1007,181"/>
-<area shape="rect" id="node24" href="$rdmc_8cpp.html" title="rdmc/rdmc.cpp" alt="" coords="886,229,995,256"/>
-<area shape="rect" id="node25" href="$verbs__helper_8cpp.html" title="rdmc/verbs_helper.cpp" alt="" coords="1082,80,1237,107"/>
-<area shape="rect" id="node3" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="624,155,799,181"/>
-<area shape="rect" id="node4" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="201,311,368,338"/>
-<area shape="rect" id="node15" href="$multicast__group_8cpp.html" title="derecho/multicast_group.cpp" alt="" coords="673,229,862,256"/>
-<area shape="rect" id="node16" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="537,229,648,256"/>
-<area shape="rect" id="node5" href="$raw__subgroup_8h.html" title="derecho/raw_subgroup.h" alt="" coords="5,401,169,427"/>
-<area shape="rect" id="node6" href="$group_8h.html" title="derecho/group.h" alt="" coords="406,647,521,673"/>
-<area shape="rect" id="node10" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="491,401,649,427"/>
-<area shape="rect" id="node14" href="$view__manager_8cpp.html" title="derecho/view_manager.cpp" alt="" coords="194,401,375,427"/>
-<area shape="rect" id="node9" href="$raw__subgroup_8cpp.html" title="derecho/raw_subgroup.cpp" alt="" coords="125,483,303,509"/>
-<area shape="rect" id="node7" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="236,721,365,748"/>
-<area shape="rect" id="node8" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="390,721,537,748"/>
-<area shape="rect" id="node11" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="501,483,639,509"/>
-<area shape="rect" id="node13" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="664,483,836,509"/>
-<area shape="rect" id="node12" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="501,557,639,599"/>
-<area shape="rect" id="node17" href="$subgroup__function__tester_8h.html" title="derecho/subgroup_function\l_tester.h" alt="" coords="826,304,1005,345"/>
-<area shape="rect" id="node19" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="393,311,603,338"/>
-<area shape="rect" id="node20" href="$view_8cpp.html" title="derecho/view.cpp" alt="" coords="627,311,751,338"/>
-<area shape="rect" id="node18" href="$subgroup__function__tester_8cpp.html" title="derecho/subgroup_function\l_tester.cpp" alt="" coords="826,393,1005,435"/>
-<area shape="rect" id="node23" href="$group__send_8cpp.html" title="rdmc/group_send.cpp" alt="" coords="1019,229,1166,256"/>
+<area shape="rect" id="node2" href="$experiment_8cpp.html" title="rdmc/experiment.cpp" alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node3" href="$verbs__helper_8cpp.html" title="rdmc/verbs_helper.cpp" alt="" coords="173,80,328,107"/>
 </map>

@@ -1,3 +1,3 @@
 <map id="derecho::rpc::recv_ret" name="derecho::rpc::recv_ret">
-<area shape="rect" id="node2" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="7,5,153,32"/>
+<area shape="rect" id="node2" href="$namespacederecho_1_1rpc.html#structderecho_1_1rpc_1_1Opcode" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="7,5,153,32"/>
 </map>

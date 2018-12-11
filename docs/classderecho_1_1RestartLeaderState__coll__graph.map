@@ -1,0 +1,13 @@
+<map id="derecho::RestartLeaderState" name="derecho::RestartLeaderState">
+<area shape="rect" id="node3" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1960,16,2047,43"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="1579,16,1659,43"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="1224,9,1351,50"/>
+<area shape="rect" id="node7" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1951,335,2056,361"/>
+<area shape="rect" id="node20" href="$namespacederecho.html#structderecho_1_1SubgroupSettings" title="A collection of settings for a single subgroup that this node is a member of. " alt="" coords="283,253,462,280"/>
+<area shape="rect" id="node18" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1205,820,1369,847"/>
+<area shape="rect" id="node25" href="$namespacederecho.html#structderecho_1_1RDMCMessage" title="A structure containing an RDMC message (which consists of some bytes in a registered memory region) a..." alt="" coords="5,979,176,1005"/>
+<area shape="rect" id="node27" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="783,865,930,892"/>
+<area shape="rect" id="node38" title="STL class. " alt="" coords="815,393,899,420"/>
+<area shape="rect" id="node46" href="$structderecho_1_1RestartState.html" title="derecho::RestartState" alt="" coords="2273,393,2423,420"/>
+<area shape="rect" id="node47" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="2271,444,2425,471"/>
+</map>

@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['variablebytes',['VariableBytes',['../classVariableBytes.html',1,'']]],
-  ['view',['View',['../classderecho_1_1View.html',1,'derecho']]],
-  ['viewmanager',['ViewManager',['../classderecho_1_1ViewManager.html',1,'derecho']]]
+  ['unsupported_5ffeature',['unsupported_feature',['../classrdma_1_1unsupported__feature.html',1,'rdma']]]
 ];

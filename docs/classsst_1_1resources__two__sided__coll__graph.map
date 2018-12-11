@@ -1,4 +1,4 @@
 <map id="sst::resources_two_sided" name="sst::resources_two_sided">
 <area shape="rect" id="node2" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="18,95,130,121"/>
-<area shape="rect" id="node3" href="$structsst_1_1cm__con__data__t.html" title="Structure to exchange the data needed to connect the Queue Pairs. " alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node3" href="$namespacesst.html#structsst_1_1cm__con__data__t" title="passive endpoint info to be exchanged. " alt="" coords="5,5,143,32"/>
 </map>

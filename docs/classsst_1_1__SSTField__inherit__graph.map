@@ -2,16 +2,18 @@
 <area shape="rect" id="node2" href="$classsst_1_1SSTField.html" title="Clients should use instances of this class with the appropriate template parameter to declare fields ..." alt="" coords="181,5,316,32"/>
 <area shape="rect" id="node3" href="$classsst_1_1SSTFieldVector.html" title="Clients should use instances of this class to declare vector&#45;like fields in their SST; the template p..." alt="" coords="163,56,335,83"/>
 <area shape="rect" id="node4" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; bool \&gt;" alt="" coords="173,107,324,133"/>
-<area shape="rect" id="node5" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; int \&gt;" alt="" coords="179,157,319,184"/>
-<area shape="rect" id="node6" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; int32_t \&gt;" alt="" coords="166,208,331,235"/>
-<area shape="rect" id="node7" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; bool \&gt;" alt="" coords="179,259,319,301"/>
-<area shape="rect" id="node8" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int \&gt;" alt="" coords="179,325,319,366"/>
-<area shape="rect" id="node9" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int32_t \&gt;" alt="" coords="179,390,319,431"/>
-<area shape="rect" id="node10" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int64_t \&gt;" alt="" coords="179,455,319,497"/>
-<area shape="rect" id="node11" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; message_id_t \&gt;" alt="" coords="179,521,319,562"/>
-<area shape="rect" id="node12" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; node_id_t \&gt;" alt="" coords="179,586,319,627"/>
-<area shape="rect" id="node13" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; persistent::version_t \&gt;" alt="" coords="167,651,331,693"/>
-<area shape="rect" id="node14" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; sst::Message \&gt;" alt="" coords="179,717,319,758"/>
-<area shape="rect" id="node15" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; uint32_t \&gt;" alt="" coords="179,782,319,823"/>
-<area shape="rect" id="node16" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; uint64_t \&gt;" alt="" coords="179,847,319,889"/>
+<area shape="rect" id="node5" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; double \&gt;" alt="" coords="167,157,331,184"/>
+<area shape="rect" id="node6" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; int \&gt;" alt="" coords="179,208,319,235"/>
+<area shape="rect" id="node7" href="$classsst_1_1SSTField.html" title="sst::SSTField\&lt; int32_t \&gt;" alt="" coords="166,259,331,285"/>
+<area shape="rect" id="node8" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; bool \&gt;" alt="" coords="179,310,319,351"/>
+<area shape="rect" id="node9" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; char \&gt;" alt="" coords="179,375,319,417"/>
+<area shape="rect" id="node10" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int \&gt;" alt="" coords="179,441,319,482"/>
+<area shape="rect" id="node11" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int32_t \&gt;" alt="" coords="179,506,319,547"/>
+<area shape="rect" id="node12" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; int64_t \&gt;" alt="" coords="179,571,319,613"/>
+<area shape="rect" id="node13" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; message_id_t \&gt;" alt="" coords="179,637,319,678"/>
+<area shape="rect" id="node14" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; node_id_t \&gt;" alt="" coords="179,702,319,743"/>
+<area shape="rect" id="node15" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; persistent::version_t \&gt;" alt="" coords="167,767,331,809"/>
+<area shape="rect" id="node16" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; uint16_t \&gt;" alt="" coords="179,833,319,874"/>
+<area shape="rect" id="node17" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; uint32_t \&gt;" alt="" coords="179,898,319,939"/>
+<area shape="rect" id="node18" href="$classsst_1_1SSTFieldVector.html" title="sst::SSTFieldVector\l\&lt; uint64_t \&gt;" alt="" coords="179,963,319,1005"/>
 </map>

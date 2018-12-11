@@ -1,11 +1,9 @@
 <map id="derecho::View" name="derecho::View">
-<area shape="rect" id="node4" title="STL class. " alt="" coords="1835,49,1915,76"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="1367,35,1494,77"/>
-<area shape="rect" id="node12" href="$structderecho_1_1SubgroupSettings.html" title="A collection of settings for a single subgroup that this node is a member of. " alt="" coords="843,237,1022,264"/>
-<area shape="rect" id="node10" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1793,681,1957,708"/>
-<area shape="rect" id="node29" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="561,1137,736,1178"/>
-<area shape="rect" id="node16" href="$structderecho_1_1RDMCMessage.html" title="derecho::RDMCMessage" alt="" coords="563,877,734,904"/>
-<area shape="rect" id="node17" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,492,416,519"/>
-<area shape="rect" id="node22" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1357,623,1504,649"/>
-<area shape="rect" id="node31" title="STL class. " alt="" coords="292,1241,376,1268"/>
+<area shape="rect" id="node14" href="$namespacederecho.html#structderecho_1_1SubgroupSettings" title="A collection of settings for a single subgroup that this node is a member of. " alt="" coords="843,288,1022,315"/>
+<area shape="rect" id="node12" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1765,713,1929,740"/>
+<area shape="rect" id="node30" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="561,1135,736,1177"/>
+<area shape="rect" id="node19" href="$namespacederecho.html#structderecho_1_1RDMCMessage" title="A structure containing an RDMC message (which consists of some bytes in a registered memory region) a..." alt="" coords="563,876,734,903"/>
+<area shape="rect" id="node20" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,791,416,817"/>
+<area shape="rect" id="node23" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1343,621,1490,648"/>
+<area shape="rect" id="node32" title="STL class. " alt="" coords="292,1240,376,1267"/>
 </map>

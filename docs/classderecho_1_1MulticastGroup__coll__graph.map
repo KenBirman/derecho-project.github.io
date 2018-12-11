@@ -1,8 +1,8 @@
 <map id="derecho::MulticastGroup" name="derecho::MulticastGroup">
-<area shape="rect" id="node3" href="$structderecho_1_1SubgroupSettings.html" title="A collection of settings for a single subgroup that this node is a member of. " alt="" coords="561,51,740,77"/>
-<area shape="rect" id="node22" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="563,135,738,177"/>
-<area shape="rect" id="node9" href="$structderecho_1_1RDMCMessage.html" title="derecho::RDMCMessage" alt="" coords="565,476,736,503"/>
-<area shape="rect" id="node10" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,505,416,532"/>
-<area shape="rect" id="node15" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1360,811,1507,837"/>
+<area shape="rect" id="node3" href="$namespacederecho.html#structderecho_1_1SubgroupSettings" title="A collection of settings for a single subgroup that this node is a member of. " alt="" coords="561,51,740,77"/>
+<area shape="rect" id="node22" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="563,138,738,179"/>
+<area shape="rect" id="node10" href="$namespacederecho.html#structderecho_1_1RDMCMessage" title="A structure containing an RDMC message (which consists of some bytes in a registered memory region) a..." alt="" coords="565,543,736,569"/>
+<area shape="rect" id="node11" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,572,416,599"/>
+<area shape="rect" id="node15" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1346,809,1493,836"/>
 <area shape="rect" id="node24" title="STL class. " alt="" coords="292,212,376,239"/>
 </map>

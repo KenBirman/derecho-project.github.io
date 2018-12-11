@@ -1,0 +1,18 @@
+<map id="applications/archive/server_client_p2p.cpp" name="applications/archive/server_client_p2p.cpp">
+<area shape="rect" id="node5" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="1992,95,2121,121"/>
+<area shape="rect" id="node6" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="812,639,954,666"/>
+<area shape="rect" id="node9" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1788,550,1916,577"/>
+<area shape="rect" id="node17" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="482,632,633,673"/>
+<area shape="rect" id="node20" href="$group_8h.html" title="group.h" alt="" coords="2024,169,2089,196"/>
+<area shape="rect" id="node41" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2183,550,2298,577"/>
+<area shape="rect" id="node47" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="196,393,357,420"/>
+<area shape="rect" id="node48" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="1114,468,1260,495"/>
+<area shape="rect" id="node28" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1690,550,1764,577"/>
+<area shape="rect" id="node29" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1888,244,2046,271"/>
+<area shape="rect" id="node34" href="$replicated_8h.html" title="replicated.h" alt="" coords="1341,319,1430,345"/>
+<area shape="rect" id="node35" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1538,393,1646,420"/>
+<area shape="rect" id="node40" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2452,468,2570,495"/>
+<area shape="rect" id="node46" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2179,393,2275,420"/>
+<area shape="rect" id="node37" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="802,468,884,495"/>
+<area shape="rect" id="node50" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1154,550,1279,577"/>
+</map>

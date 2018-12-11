@@ -1,10 +1,9 @@
 <map id="sst/multicast_sst.h" name="sst/multicast_sst.h">
-<area shape="rect" id="node2" href="$max__msg__size_8h.html" title="max_msg_size.h" alt="" coords="5,155,127,181"/>
-<area shape="rect" id="node3" href="$multicast__msg_8h.html" title="multicast_msg.h" alt="" coords="7,80,125,107"/>
-<area shape="rect" id="node4" href="$sst_8h.html" title="sst.h" alt="" coords="1097,80,1147,107"/>
-<area shape="rect" id="node20" href="$predicates_8h.html" title="predicates.h" alt="" coords="202,229,295,256"/>
-<area shape="rect" id="node23" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="1160,155,1225,181"/>
-<area shape="rect" id="node26" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="855,155,938,181"/>
-<area shape="rect" id="node30" href="$time_8h.html" title="time.h" alt="" coords="565,229,623,256"/>
-<area shape="rect" id="node33" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1067,229,1151,256"/>
+<area shape="rect" id="node2" href="$sst_8h.html" title="sst.h" alt="" coords="791,80,841,107"/>
+<area shape="rect" id="node18" href="$predicates_8h.html" title="predicates.h" alt="" coords="295,229,388,256"/>
+<area shape="rect" id="node21" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1471,229,1511,256"/>
+<area shape="rect" id="node25" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="815,155,897,181"/>
+<area shape="rect" id="node24" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1622,304,1773,345"/>
+<area shape="rect" id="node29" href="$time_8h.html" title="time.h" alt="" coords="657,229,716,256"/>
+<area shape="rect" id="node32" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="866,229,950,256"/>
 </map>

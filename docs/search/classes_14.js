@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['wrapped',['wrapped',['../structderecho_1_1rpc_1_1wrapped.html',1,'derecho::rpc']]],
-  ['wrapped_3c_20tag_2c_20std_3a_3afunction_3c_20ret_28arguments_2e_2e_2e_29_3e_20_3e',['wrapped&lt; Tag, std::function&lt; Ret(Arguments...)&gt; &gt;',['../structderecho_1_1rpc_1_1wrapped_3_01Tag_00_01std_1_1function_3_01Ret_07Arguments_8_8_8_08_4_01_4.html',1,'derecho::rpc']]]
+  ['variablebytes',['VariableBytes',['../classVariableBytes.html',1,'']]],
+  ['verbs_5fsender_5fctxt',['verbs_sender_ctxt',['../namespacesst.html#structsst_1_1verbs__sender__ctxt',1,'sst']]],
+  ['view',['View',['../classderecho_1_1View.html',1,'derecho']]],
+  ['viewmanager',['ViewManager',['../classderecho_1_1ViewManager.html',1,'derecho']]],
+  ['volatile_5fwrapper',['volatile_wrapper',['../structvolatile__wrapper.html',1,'']]]
 ];

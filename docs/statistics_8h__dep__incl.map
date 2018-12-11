@@ -1,0 +1,10 @@
+<map id="applications/archive/statistics.h" name="applications/archive/statistics.h">
+<area shape="rect" id="node2" href="$average__load__pred_8cpp.html" title="applications/archive\l/average_load_pred.cpp" alt="" coords="5,102,165,143"/>
+<area shape="rect" id="node3" href="$named__predicate__test_8cpp.html" title="applications/archive\l/named_predicate_test.cpp" alt="" coords="189,102,368,143"/>
+<area shape="rect" id="node4" href="$predicate__row__scaling__read_8cpp.html" title="applications/archive\l/predicate_row_scaling\l_read.cpp" alt="" coords="392,95,547,151"/>
+<area shape="rect" id="node5" href="$predicate__row__scaling__write_8cpp.html" title="applications/archive\l/predicate_row_scaling\l_write.cpp" alt="" coords="571,95,725,151"/>
+<area shape="rect" id="node6" href="$raw__rdma__read_8cpp.html" title="applications/archive\l/raw_rdma_read.cpp" alt="" coords="750,102,890,143"/>
+<area shape="rect" id="node7" href="$raw__rdma__write_8cpp.html" title="applications/archive\l/raw_rdma_write.cpp" alt="" coords="914,102,1057,143"/>
+<area shape="rect" id="node8" href="$row__size__scaling__read_8cpp.html" title="applications/archive\l/row_size_scaling_read.cpp" alt="" coords="1081,102,1263,143"/>
+<area shape="rect" id="node9" href="$row__size__scaling__write_8cpp.html" title="applications/archive\l/row_size_scaling_write.cpp" alt="" coords="1288,102,1475,143"/>
+</map>

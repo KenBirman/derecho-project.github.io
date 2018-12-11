@@ -1,4 +1,4 @@
 <map id="derecho::rpc::PendingBase" name="derecho::rpc::PendingBase">
-<area shape="rect" id="node2" href="$structderecho_1_1rpc_1_1PendingResults.html" title="Data structure that holds a set of promises for a single RPC function call; the promises transmit one..." alt="" coords="5,80,200,121"/>
-<area shape="rect" id="node3" href="$structderecho_1_1rpc_1_1PendingResults_3_01void_01_4.html" title="derecho::rpc::PendingResults\l\&lt; void \&gt;" alt="" coords="224,80,419,121"/>
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1PendingResults.html" title="Data structure that holds a set of promises for a single RPC function call; the promises transmit one..." alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node3" href="$classderecho_1_1rpc_1_1PendingResults_3_01void_01_4.html" title="Specialization of PendingResults for void functions, which do not generate replies. " alt="" coords="224,80,419,121"/>
 </map>

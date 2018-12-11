@@ -1,13 +1,6 @@
 var searchData=
 [
-  ['schedule_2ecpp',['schedule.cpp',['../schedule_8cpp.html',1,'']]],
-  ['schedule_2eh',['schedule.h',['../schedule_8h.html',1,'']]],
-  ['sst_2eh',['sst.h',['../sst_8h.html',1,'']]],
-  ['sst_5fimpl_2eh',['sst_impl.h',['../sst__impl_8h.html',1,'']]],
-  ['std_5fhashes_2eh',['std_hashes.h',['../std__hashes_8h.html',1,'']]],
-  ['subgroup_5ffunction_5ftester_2ecpp',['subgroup_function_tester.cpp',['../subgroup__function__tester_8cpp.html',1,'']]],
-  ['subgroup_5ffunction_5ftester_2eh',['subgroup_function_tester.h',['../subgroup__function__tester_8h.html',1,'']]],
-  ['subgroup_5ffunctions_2ecpp',['subgroup_functions.cpp',['../subgroup__functions_8cpp.html',1,'']]],
-  ['subgroup_5ffunctions_2eh',['subgroup_functions.h',['../subgroup__functions_8h.html',1,'']]],
-  ['subgroup_5finfo_2eh',['subgroup_info.h',['../subgroup__info_8h.html',1,'']]]
+  ['named_5ffunction_2eh',['named_function.h',['../named__function_8h.html',1,'']]],
+  ['named_5fpredicate_5ftest_2ecpp',['named_predicate_test.cpp',['../named__predicate__test_8cpp.html',1,'']]],
+  ['namedrowpredicates_2eh',['NamedRowPredicates.h',['../NamedRowPredicates_8h.html',1,'']]]
 ];

@@ -1,5 +1,6 @@
 <map id="derecho/p2p_connections.cpp" name="derecho/p2p_connections.cpp">
-<area shape="rect" id="node6" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="320,80,451,107"/>
-<area shape="rect" id="node15" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="757,80,864,107"/>
-<area shape="rect" id="node13" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="99,155,186,181"/>
+<area shape="rect" id="node6" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="412,80,543,107"/>
+<area shape="rect" id="node16" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="848,80,955,107"/>
+<area shape="rect" id="node13" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="159,155,222,181"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="129,229,279,271"/>
 </map>

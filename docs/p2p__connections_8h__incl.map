@@ -1,3 +1,4 @@
 <map id="derecho/p2p_connections.h" name="derecho/p2p_connections.h">
-<area shape="rect" id="node9" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="667,80,754,107"/>
+<area shape="rect" id="node9" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="289,80,351,107"/>
+<area shape="rect" id="node11" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="441,155,591,196"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="sst::_resources" name="sst::_resources">
-<area shape="rect" id="node2" href="$classsst_1_1resources.html" title="sst::resources" alt="" coords="5,87,111,114"/>
-<area shape="rect" id="node3" href="$classsst_1_1resources__two__sided.html" title="sst::resources_two\l_sided" alt="" coords="135,80,269,121"/>
+<area shape="rect" id="node2" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="5,87,111,114"/>
+<area shape="rect" id="node3" href="$classsst_1_1resources__two__sided.html" title="A public&#45;facing version of the internal _resources class that extends it with functions that support ..." alt="" coords="135,80,269,121"/>
 </map>

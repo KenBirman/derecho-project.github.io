@@ -1,6 +1,6 @@
 <map id="schedule" name="schedule">
 <area shape="rect" id="node2" href="$classbinomial__schedule.html" title="binomial_schedule" alt="" coords="5,80,135,107"/>
-<area shape="rect" id="node3" href="$classchain__schedule.html" title="chain_schedule" alt="" coords="159,80,271,107"/>
-<area shape="rect" id="node4" href="$classsequential__schedule.html" title="sequential_schedule" alt="" coords="296,80,436,107"/>
-<area shape="rect" id="node5" href="$classtree__schedule.html" title="tree_schedule" alt="" coords="460,80,563,107"/>
+<area shape="rect" id="node3" href="$classchain__schedule.html" title="chain_schedule" alt="" coords="158,80,270,107"/>
+<area shape="rect" id="node4" href="$classsequential__schedule.html" title="sequential_schedule" alt="" coords="295,80,435,107"/>
+<area shape="rect" id="node5" href="$classtree__schedule.html" title="tree_schedule" alt="" coords="459,80,561,107"/>
 </map>

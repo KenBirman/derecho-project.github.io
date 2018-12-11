@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structderecho_1_1SSTMessage.html" title="derecho::SSTMessage" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvokers\l\&lt; WrappedFuns... \&gt;" alt="" coords="5,13,204,54"/>
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RemoteInvokerForClass.html" title="Transforms a class into an RPC client for the methods of that class, given a place to store RPC messa..." alt="" coords="252,5,443,61"/>
 </map>

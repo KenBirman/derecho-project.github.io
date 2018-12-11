@@ -1,20 +1,18 @@
 <map id="derecho/view.h" name="derecho/view.h">
-<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="368,244,496,271"/>
-<area shape="rect" id="node12" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3359,162,3484,189"/>
-<area shape="rect" id="node13" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="691,162,795,189"/>
-<area shape="rect" id="node21" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2361,244,2434,271"/>
-<area shape="rect" id="node33" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2588,80,2713,107"/>
-<area shape="rect" id="node19" href="$multicast__msg_8h.html" title="sst/multicast_msg.h" alt="" coords="1581,244,1721,271"/>
-<area shape="rect" id="node20" href="$max__msg__size_8h.html" title="max_msg_size.h" alt="" coords="1590,319,1711,345"/>
-<area shape="rect" id="node30" href="$predicates_8h.html" title="predicates.h" alt="" coords="1973,393,2067,420"/>
-<area shape="rect" id="node31" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="2411,319,2477,345"/>
-<area shape="rect" id="node32" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="2653,319,2736,345"/>
-<area shape="rect" id="node40" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="3369,244,3522,271"/>
-<area shape="rect" id="node43" href="$derecho__ports_8h.html" title="derecho_ports.h" alt="" coords="2593,162,2708,189"/>
-<area shape="rect" id="node46" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1251,244,1346,271"/>
-<area shape="rect" id="node49" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2922,162,3030,189"/>
-<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="864,319,979,345"/>
-<area shape="rect" id="node41" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3422,393,3554,420"/>
-<area shape="rect" id="node42" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3403,319,3477,345"/>
-<area shape="rect" id="node47" href="$verbs__helper_8h.html" title="verbs_helper.h" alt="" coords="1155,319,1261,345"/>
+<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="467,319,595,345"/>
+<area shape="rect" id="node16" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2712,162,2837,189"/>
+<area shape="rect" id="node17" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="315,162,419,189"/>
+<area shape="rect" id="node22" href="$sst_8h.html" title="sst/sst.h" alt="" coords="965,244,1038,271"/>
+<area shape="rect" id="node34" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1949,80,2075,107"/>
+<area shape="rect" id="node13" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1363,393,1514,435"/>
+<area shape="rect" id="node31" href="$predicates_8h.html" title="predicates.h" alt="" coords="189,401,283,427"/>
+<area shape="rect" id="node32" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1191,319,1231,345"/>
+<area shape="rect" id="node33" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="913,319,996,345"/>
+<area shape="rect" id="node41" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1834,244,1987,271"/>
+<area shape="rect" id="node46" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="2289,244,2383,271"/>
+<area shape="rect" id="node49" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2225,162,2333,189"/>
+<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2660,319,2775,345"/>
+<area shape="rect" id="node42" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1661,401,1793,427"/>
+<area shape="rect" id="node43" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="2258,319,2331,345"/>
+<area shape="rect" id="node47" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="2100,319,2183,345"/>
 </map>

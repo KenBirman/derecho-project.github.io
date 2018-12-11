@@ -1,17 +1,12 @@
 var searchData=
 [
-  ['_7e_5fresources',['~_resources',['../classsst_1_1__resources.html#a984dd8d2aa817f8a0b0efcb79c640ce9',1,'sst::_resources']]],
-  ['_7egroup',['~Group',['../classderecho_1_1Group.html#ad38b637d5ef9405aad59f5f65e3782bf',1,'derecho::Group::~Group()'],['../classgroup.html#a1004fae3de56db559882f3e77623f844',1,'group::~group()']]],
-  ['_7emulticastgroup',['~MulticastGroup',['../classderecho_1_1MulticastGroup.html#adbb9f2949adb9a0e5fdf0ca09456fb3e',1,'derecho::MulticastGroup']]],
-  ['_7ep2pconnections',['~P2PConnections',['../classsst_1_1P2PConnections.html#a72042c92c57a7a093858ebf6758f8fc0',1,'sst::P2PConnections']]],
-  ['_7ependingbase',['~PendingBase',['../classderecho_1_1rpc_1_1PendingBase.html#aaad9b054a774700b04067a6a58ce3c35',1,'derecho::rpc::PendingBase']]],
-  ['_7epersistencemanager',['~PersistenceManager',['../classderecho_1_1PersistenceManager.html#ab6bf8c5d8b32161795aa30afe0285fd6',1,'derecho::PersistenceManager']]],
-  ['_7equeue_5fpair',['~queue_pair',['../classrdma_1_1queue__pair.html#af762420c22cdf03a31c967b29e658e8e',1,'rdma::queue_pair']]],
-  ['_7ereplicated',['~Replicated',['../classderecho_1_1Replicated.html#a022f2d2748e42bff988bc8435e37fceb',1,'derecho::Replicated']]],
-  ['_7ereplicatedobject',['~ReplicatedObject',['../classderecho_1_1ReplicatedObject.html#a00d5833b94a09acd0d9ceb4d387a033d',1,'derecho::ReplicatedObject']]],
-  ['_7erpcmanager',['~RPCManager',['../classderecho_1_1rpc_1_1RPCManager.html#a4cc347d6cf56cfa1b4f27ad3cfff175d',1,'derecho::rpc::RPCManager']]],
-  ['_7esocket',['~socket',['../classtcp_1_1socket.html#a3a3f1f7caa0074b41dfd07cbbf5328cb',1,'tcp::socket']]],
-  ['_7esst',['~SST',['../classsst_1_1SST.html#ab7f769d5f5af3d0c5126f6734b1c6a6e',1,'sst::SST']]],
-  ['_7etask',['~task',['../classrdma_1_1task.html#a8af706a92cc360c53f0e5cc5579da3ab',1,'rdma::task']]],
-  ['_7eviewmanager',['~ViewManager',['../classderecho_1_1ViewManager.html#a68b79cdaae3ef11426e141f74ecfd11a',1,'derecho::ViewManager']]]
+  ['wait',['wait',['../classderecho_1_1rpc_1_1QueryResults.html#a85a3b91edb4a1016e28516975883f31e',1,'derecho::rpc::QueryResults::wait()'],['../classderecho_1_1rpc_1_1QueryResults_3_01void_01_4.html#a8403664b0aae1b063c669dd70fb3c373',1,'derecho::rpc::QueryResults&lt; void &gt;::wait()']]],
+  ['wait_5ffor_5fcompletion',['wait_for_completion',['../rdma__two__sided_8cpp.html#a7de1d14878d9bb6ee84518d2f348a8ad',1,'rdma_two_sided.cpp']]],
+  ['wait_5ffor_5frequests',['wait_for_requests',['../classsst_1_1util_1_1PollingData.html#a3e29a811918ea26f55776f40c71af378',1,'sst::util::PollingData']]],
+  ['wedge',['wedge',['../classderecho_1_1MulticastGroup.html#a3c424dbe1a68aa11b157f51406e80b8c',1,'derecho::MulticastGroup::wedge()'],['../classderecho_1_1View.html#a2b670ba22fa807163225f988876612c6',1,'derecho::View::wedge()']]],
+  ['what',['what',['../structderecho_1_1derecho__exception.html#a16a33cdb8de1a8d029582c17727d5379',1,'derecho::derecho_exception::what()'],['../structderecho_1_1rpc_1_1remote__exception__occurred.html#a0ab7e827fcdbcb55e1d340440a6de148',1,'derecho::rpc::remote_exception_occurred::what()'],['../structderecho_1_1rpc_1_1node__removed__from__group__exception.html#a9ce7e0b8db003ccd03b070b902c5ca85',1,'derecho::rpc::node_removed_from_group_exception::what()']]],
+  ['whenlog',['whenlog',['../classderecho_1_1RestartLeaderState.html#a5c4dac12cac21410c133e27961fb85d0',1,'derecho::RestartLeaderState::whenlog()'],['../classderecho_1_1rpc_1_1PendingResults.html#aa432a118095733eeaa0d0f6187a19012',1,'derecho::rpc::PendingResults::whenlog()'],['../classderecho_1_1ViewManager.html#a5e7cad32f46397000ccab23291894f9a',1,'derecho::ViewManager::whenlog()']]],
+  ['wrap_5fgetters',['wrap_getters',['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4.html#a3b93cde5f67f3dc57357dad9a04e0c79',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;::wrap_getters() const '],['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4.html#a6a15f67be49ff2f6322213b35a4716ff',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;::wrap_getters() const '],['../structsst_1_1PredicateBuilder.html#a372ea07872a59523f9ff1e32cb890d1b',1,'sst::PredicateBuilder::wrap_getters() const '],['../structsst_1_1PredicateBuilder.html#a01b8f6e139aae94740a21e8cdc1ed50d',1,'sst::PredicateBuilder::wrap_getters() const ']]],
+  ['write',['write',['../classtcp_1_1tcp__connections.html#addf1a32cc0e177da3724bf253c6ce3b1',1,'tcp::tcp_connections::write()'],['../classtcp_1_1socket.html#a2fb38f54d3e53342ffa3b2b99a550f42',1,'tcp::socket::write(const char *buffer, size_t size)'],['../classtcp_1_1socket.html#a5ad2cd6218810871bfa5c01a35565583',1,'tcp::socket::write(const T &amp;obj)']]],
+  ['write_5fall',['write_all',['../classtcp_1_1tcp__connections.html#addcef553cd7586d9b75df6a656073923',1,'tcp::tcp_connections']]]
 ];

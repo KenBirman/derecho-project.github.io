@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structsst_1_1experiments_1_1LSDB__Row.html" title="Represents a row of the link&#45;state database. " alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node1" href="$classrdma_1_1queue__pair.html" title="A C++ wrapper for the IB Verbs ibv_qp struct and its associated functions. " alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$classrdma_1_1managed__queue__pair.html" title="rdma::managed_queue_pair" alt="" coords="176,5,359,32"/>
+<area shape="rect" id="node3" href="$classrdma_1_1manager__queue__pair.html" title="rdma::manager_queue_pair" alt="" coords="178,56,357,83"/>
 </map>

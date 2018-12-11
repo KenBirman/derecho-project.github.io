@@ -1,19 +1,18 @@
 <map id="derecho/replicated.h" name="derecho/replicated.h">
-<area shape="rect" id="node9" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1462,468,1535,495"/>
-<area shape="rect" id="node11" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1039,468,1182,495"/>
-<area shape="rect" id="node13" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="785,468,913,495"/>
-<area shape="rect" id="node17" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="1178,229,1313,256"/>
-<area shape="rect" id="node22" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1204,304,1287,331"/>
-<area shape="rect" id="node31" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1453,80,1561,107"/>
-<area shape="rect" id="node32" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="3383,468,3513,495"/>
-<area shape="rect" id="node39" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2925,229,2985,256"/>
-<area shape="rect" id="node48" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2327,155,2444,181"/>
-<area shape="rect" id="node37" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="3185,543,3271,569"/>
-<area shape="rect" id="node41" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3323,386,3448,413"/>
-<area shape="rect" id="node42" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="3043,386,3147,413"/>
-<area shape="rect" id="node43" href="$sst_8h.html" title="sst/sst.h" alt="" coords="3179,468,3253,495"/>
-<area shape="rect" id="node44" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2588,304,2713,331"/>
-<area shape="rect" id="node45" href="$derecho__ports_8h.html" title="derecho_ports.h" alt="" coords="2499,386,2613,413"/>
-<area shape="rect" id="node47" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2208,386,2323,413"/>
-<area shape="rect" id="node50" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3814,229,3946,256"/>
+<area shape="rect" id="node7" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1359,304,1502,331"/>
+<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1388,468,1516,495"/>
+<area shape="rect" id="node18" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="714,229,849,256"/>
+<area shape="rect" id="node24" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="976,304,1059,331"/>
+<area shape="rect" id="node33" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1587,80,1695,107"/>
+<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="2049,468,2122,495"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="841,617,991,659"/>
+<area shape="rect" id="node34" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="3219,468,3349,495"/>
+<area shape="rect" id="node39" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2530,229,2590,256"/>
+<area shape="rect" id="node46" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="3200,155,3317,181"/>
+<area shape="rect" id="node38" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="3089,543,3151,569"/>
+<area shape="rect" id="node40" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2667,386,2792,413"/>
+<area shape="rect" id="node41" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2248,386,2352,413"/>
+<area shape="rect" id="node42" href="$sst_8h.html" title="sst/sst.h" alt="" coords="3121,468,3194,495"/>
+<area shape="rect" id="node43" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2741,304,2867,331"/>
+<area shape="rect" id="node48" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3661,229,3793,256"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="rdma::creation_failure" name="rdma::creation_failure">
-<area shape="rect" id="node3" href="$classrdma_1_1cq__creation__failure.html" title="rdma::cq_creation_failure" alt="" coords="5,155,173,181"/>
-<area shape="rect" id="node4" href="$classrdma_1_1mr__creation__failure.html" title="rdma::mr_creation_failure" alt="" coords="198,155,367,181"/>
-<area shape="rect" id="node5" href="$classrdma_1_1qp__creation__failure.html" title="rdma::qp_creation_failure" alt="" coords="392,155,560,181"/>
-<area shape="rect" id="node2" href="$classrdma_1_1exception.html" title="rdma::exception" alt="" coords="225,5,340,32"/>
+<area shape="rect" id="node3" href="$classrdma_1_1cq__creation__failure.html" title="rdma::cq_creation_failure" alt="" coords="363,5,531,32"/>
+<area shape="rect" id="node4" href="$classrdma_1_1ep__creation__failure.html" title="rdma::ep_creation_failure" alt="" coords="363,56,531,83"/>
+<area shape="rect" id="node5" href="$classrdma_1_1mr__creation__failure.html" title="rdma::mr_creation_failure" alt="" coords="363,107,532,133"/>
+<area shape="rect" id="node6" href="$classrdma_1_1qp__creation__failure.html" title="rdma::qp_creation_failure" alt="" coords="363,157,531,184"/>
+<area shape="rect" id="node2" href="$classrdma_1_1exception.html" title="rdma::exception" alt="" coords="5,81,120,108"/>
 </map>

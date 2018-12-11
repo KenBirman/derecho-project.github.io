@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classTypeInfo_3_01int_01_4.html" title="TypeInfo\&lt; int \&gt;" alt="" coords="5,165,116,192"/>
+<area shape="rect" id="node2" href="$classTypeInfo_3_01char_01_4.html" title="TypeInfo\&lt; char \&gt;" alt="" coords="171,5,294,32"/>
+<area shape="rect" id="node3" href="$classTypeInfo_3_01long_01_4.html" title="TypeInfo\&lt; long \&gt;" alt="" coords="172,56,293,83"/>
+<area shape="rect" id="node4" href="$classTypeInfo_3_01short_01_4.html" title="TypeInfo\&lt; short \&gt;" alt="" coords="169,107,296,133"/>
+<area shape="rect" id="node5" href="$classTypeInfo_3_01unsigned_01char_01_4.html" title="TypeInfo\&lt; unsigned\l char \&gt;" alt="" coords="164,158,301,199"/>
+<area shape="rect" id="node6" href="$classTypeInfo_3_01unsigned_01int_01_4.html" title="TypeInfo\&lt; unsigned\l int \&gt;" alt="" coords="164,223,301,265"/>
+<area shape="rect" id="node7" href="$classTypeInfo_3_01unsigned_01long_01_4.html" title="TypeInfo\&lt; unsigned\l long \&gt;" alt="" coords="164,289,301,330"/>
+<area shape="rect" id="node8" href="$classTypeInfo_3_01unsigned_01short_01_4.html" title="TypeInfo\&lt; unsigned\l short \&gt;" alt="" coords="164,354,301,395"/>
+</map>

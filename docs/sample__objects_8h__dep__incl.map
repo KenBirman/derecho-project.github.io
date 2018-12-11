@@ -1,0 +1,4 @@
+<map id="applications/demos/sample_objects.h" name="applications/demos/sample_objects.h">
+<area shape="rect" id="node2" href="$overlapping__replicated__objects_8cpp.html" title="This test creates three subgroups, one of each type Foo, Bar and Cache (defined in sample_objects..." alt="" coords="5,95,160,151"/>
+<area shape="rect" id="node3" href="$simple__replicated__objects_8cpp.html" title="This test creates two subgroups, one of each type Foo and Bar (defined in sample_objects.h). " alt="" coords="185,102,386,143"/>
+</map>

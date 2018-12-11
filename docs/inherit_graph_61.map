@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrdma_1_1memory__region.html" title="A C++ wrapper for the IB Verbs ibv_mr struct. " alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node1" href="$classgroup.html" title="group" alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$classpolling__group.html" title="polling_group" alt="" coords="108,5,207,32"/>
 </map>

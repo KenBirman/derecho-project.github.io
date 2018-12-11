@@ -1,0 +1,16 @@
+<map id="derecho/restart_state.h" name="derecho/restart_state.h">
+<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="847,319,975,345"/>
+<area shape="rect" id="node16" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="645,237,760,263"/>
+<area shape="rect" id="node21" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1166,80,1226,107"/>
+<area shape="rect" id="node13" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1274,468,1425,509"/>
+<area shape="rect" id="node19" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="679,319,822,345"/>
+<area shape="rect" id="node23" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1077,237,1203,263"/>
+<area shape="rect" id="node24" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="1517,237,1621,263"/>
+<area shape="rect" id="node28" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2499,319,2573,345"/>
+<area shape="rect" id="node38" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1824,155,1949,181"/>
+<area shape="rect" id="node36" href="$predicates_8h.html" title="predicates.h" alt="" coords="2384,393,2477,420"/>
+<area shape="rect" id="node37" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="2269,393,2309,420"/>
+<area shape="rect" id="node45" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1711,319,1865,345"/>
+<area shape="rect" id="node48" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1541,319,1635,345"/>
+<area shape="rect" id="node50" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2482,237,2590,263"/>
+</map>

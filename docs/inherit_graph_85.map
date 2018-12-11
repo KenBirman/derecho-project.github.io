@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structsst_1_1NamedRowPredicates_3_4.html" title="sst::NamedRowPredicates\&lt;\&gt;" alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node1" href="$classschedule.html" title="schedule" alt="" coords="5,81,80,108"/>
+<area shape="rect" id="node2" href="$classbinomial__schedule.html" title="binomial_schedule" alt="" coords="133,5,263,32"/>
+<area shape="rect" id="node3" href="$classchain__schedule.html" title="chain_schedule" alt="" coords="142,56,254,83"/>
+<area shape="rect" id="node4" href="$classsequential__schedule.html" title="sequential_schedule" alt="" coords="128,107,268,133"/>
+<area shape="rect" id="node5" href="$classtree__schedule.html" title="tree_schedule" alt="" coords="147,157,249,184"/>
 </map>

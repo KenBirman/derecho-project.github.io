@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structsst_1_1predicate__builder_1_1choose__uniqueness__tag__str_3_01NamelessPredicateMetadata_3_85643aa4dadfb863b953c721b188a8e2.html" title="sst::predicate_builder\l::choose_uniqueness_tag\l_str\&lt; NamelessPredicateMetadata\l\&lt; Ext_t, uid, rst... \&gt; \&gt;" alt="" coords="5,5,229,76"/>
+<area shape="rect" id="node1" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="5,35,117,61"/>
+<area shape="rect" id="node2" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="179,5,285,32"/>
+<area shape="rect" id="node3" href="$classsst_1_1resources__two__sided.html" title="A public&#45;facing version of the internal _resources class that extends it with functions that support ..." alt="" coords="165,57,299,98"/>
 </map>
