@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['persistent',['persistent',['../namespacepersistent.html',1,'']]]
+  ['mytests',['myTests',['../namespacemyTests.html',1,'']]]
 ];

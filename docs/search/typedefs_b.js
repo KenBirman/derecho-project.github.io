@@ -9,6 +9,6 @@ var searchData=
   ['nameenummatches',['NameEnumMatches',['../namespacesst_1_1predicate__builder.html#a7ccb40c2720f187a709662dc7a8f1572',1,'sst::predicate_builder']]],
   ['node_5fid_5ft',['node_id_t',['../derecho__type__definitions_8h.html#a307ecfdca0e28f653d9138dc0f676a77',1,'derecho_type_definitions.h']]],
   ['node_5flist_5ft',['node_list_t',['../namespacederecho_1_1rpc.html#a76a26b316ec0872e624a98b2cc8f0b8c',1,'derecho::rpc']]],
-  ['num_5fgetters',['num_getters',['../structsst_1_1PredicateBuilder.html#a529501e19f00d82227a662df96899272',1,'sst::PredicateBuilder']]],
+  ['num_5fgetters',['num_getters',['../structsst_1_1PredicateBuilder.html#ad99b6a598d13f17cd7eafd18e1487004',1,'sst::PredicateBuilder']]],
   ['num_5fupdater_5ffunctions',['num_updater_functions',['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4.html#aa8b951bcdbd339828304c7865554515d',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;::num_updater_functions()'],['../structsst_1_1PredicateBuilder.html#a46237b845e2b3fea433d242774f9fce7',1,'sst::PredicateBuilder::num_updater_functions()'],['../namespacesst.html#a1cc368f3af6e148dbd1dcce1035a1caa',1,'sst::NamedRowPredicates&lt; PredicateBuilder, PredBuilders... &gt;::num_updater_functions()']]]
 ];

@@ -2,10 +2,7 @@ var searchData=
 [
   ['tcp_2ecpp',['tcp.cpp',['../tcp_8cpp.html',1,'']]],
   ['tcp_2eh',['tcp.h',['../tcp_8h.html',1,'']]],
-  ['tcp_5frelay_2ecpp',['tcp_relay.cpp',['../tcp__relay_8cpp.html',1,'']]],
-  ['test_2ecpp',['test.cpp',['../conf_2test_8cpp.html',1,'']]],
-  ['test_2ecpp',['test.cpp',['../applications_2archive_2test_8cpp.html',1,'']]],
-  ['test_2ecpp',['test.cpp',['../persistent_2test_8cpp.html',1,'']]],
+  ['test_2ecpp',['test.cpp',['../applications_2archive_2test_8cpp.html',1,'(Global Namespace)'],['../conf_2test_8cpp.html',1,'(Global Namespace)'],['../objectstore_2test_8cpp.html',1,'(Global Namespace)'],['../persistent_2test_8cpp.html',1,'(Global Namespace)']]],
   ['test_5ffailure_5fhandling_2ecpp',['test_failure_handling.cpp',['../test__failure__handling_8cpp.html',1,'']]],
   ['test_5fgroup_5finterface_2ecpp',['test_group_interface.cpp',['../test__group__interface_8cpp.html',1,'']]],
   ['test_5fnum_5fpolled_2ecpp',['test_num_polled.cpp',['../test__num__polled_8cpp.html',1,'']]],

@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$namespacerdma.html#structrdma_1_1ibv__resources" title="rdma::ibv_resources" alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node1" href="$classrdma_1_1endpoint.html" title="A C++ wrapper for the libfabric fid_ep struct and its associated functions. " alt="" coords="5,31,113,57"/>
+<area shape="rect" id="node2" href="$classrdma_1_1managed__endpoint.html" title="rdma::managed_endpoint" alt="" coords="161,5,329,32"/>
+<area shape="rect" id="node3" href="$classrdma_1_1manager__endpoint.html" title="rdma::manager_endpoint" alt="" coords="163,56,328,83"/>
 </map>

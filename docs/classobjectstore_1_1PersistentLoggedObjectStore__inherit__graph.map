@@ -1,0 +1,6 @@
+<map id="objectstore::PersistentLoggedObjectStore" name="objectstore::PersistentLoggedObjectStore">
+<area shape="rect" id="node3" href="$classderecho_1_1PersistsFields.html" title="This is a marker interface for user&#45;defined Replicated Objects (i.e. " alt="" coords="21,56,179,83"/>
+<area shape="rect" id="node4" href="$classderecho_1_1GroupReference.html" title="derecho::GroupReference" alt="" coords="15,107,185,133"/>
+<area shape="rect" id="node5" href="$classobjectstore_1_1IObjectStoreAPI.html" title="objectstore::IObjectStoreAPI" alt="" coords="5,157,195,184"/>
+<area shape="rect" id="node6" href="$classobjectstore_1_1IReplica.html" title="objectstore::IReplica" alt="" coords="29,208,171,235"/>
+</map>

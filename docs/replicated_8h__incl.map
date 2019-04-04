@@ -1,18 +1,17 @@
 <map id="derecho/replicated.h" name="derecho/replicated.h">
-<area shape="rect" id="node7" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1359,304,1502,331"/>
-<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1388,468,1516,495"/>
-<area shape="rect" id="node18" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="714,229,849,256"/>
-<area shape="rect" id="node24" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="976,304,1059,331"/>
-<area shape="rect" id="node33" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1587,80,1695,107"/>
-<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="2049,468,2122,495"/>
-<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="841,617,991,659"/>
-<area shape="rect" id="node34" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="3219,468,3349,495"/>
-<area shape="rect" id="node39" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2530,229,2590,256"/>
-<area shape="rect" id="node46" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="3200,155,3317,181"/>
-<area shape="rect" id="node38" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="3089,543,3151,569"/>
-<area shape="rect" id="node40" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2667,386,2792,413"/>
-<area shape="rect" id="node41" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2248,386,2352,413"/>
-<area shape="rect" id="node42" href="$sst_8h.html" title="sst/sst.h" alt="" coords="3121,468,3194,495"/>
-<area shape="rect" id="node43" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2741,304,2867,331"/>
-<area shape="rect" id="node48" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3661,229,3793,256"/>
+<area shape="rect" id="node7" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3850,304,3993,331"/>
+<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1836,468,1964,495"/>
+<area shape="rect" id="node18" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="654,229,789,256"/>
+<area shape="rect" id="node25" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1239,304,1321,331"/>
+<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1543,80,1651,107"/>
+<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1637,468,1710,495"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1635,617,1786,659"/>
+<area shape="rect" id="node35" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="2697,468,2828,495"/>
+<area shape="rect" id="node40" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2433,229,2493,256"/>
+<area shape="rect" id="node47" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="3353,155,3471,181"/>
+<area shape="rect" id="node39" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="2786,543,2849,569"/>
+<area shape="rect" id="node41" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2231,386,2356,413"/>
+<area shape="rect" id="node42" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2823,386,2927,413"/>
+<area shape="rect" id="node43" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2903,468,2977,495"/>
+<area shape="rect" id="node45" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2623,304,2748,331"/>
 </map>

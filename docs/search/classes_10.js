@@ -2,7 +2,6 @@ var searchData=
 [
   ['raggedtrim',['RaggedTrim',['../structderecho_1_1RaggedTrim.html',1,'derecho']]],
   ['rawobject',['RawObject',['../structderecho_1_1RawObject.html',1,'derecho']]],
-  ['rdmclogger',['RDMCLogger',['../classrdma_1_1RDMCLogger.html',1,'rdma']]],
   ['rdmcmessage',['RDMCMessage',['../namespacederecho.html#structderecho_1_1RDMCMessage',1,'derecho']]],
   ['receive_5fdestination',['receive_destination',['../namespacerdmc.html#structrdmc_1_1receive__destination',1,'rdmc']]],
   ['recv_5fret',['recv_ret',['../namespacederecho_1_1rpc.html#structderecho_1_1rpc_1_1recv__ret',1,'derecho::rpc']]],
@@ -34,14 +33,12 @@ var searchData=
   ['replicated',['Replicated',['../classderecho_1_1Replicated.html',1,'derecho']]],
   ['replicatedobject',['ReplicatedObject',['../classderecho_1_1ReplicatedObject.html',1,'derecho']]],
   ['replicatedt',['ReplicatedT',['../persistent_2test_8cpp.html#classReplicatedT',1,'']]],
-  ['replymap',['ReplyMap',['../classderecho_1_1rpc_1_1QueryResults_1_1ReplyMap.html',1,'derecho::rpc::QueryResults']]],
-  ['replymap',['ReplyMap',['../classderecho_1_1rpc_1_1QueryResults_3_01void_01_4_1_1ReplyMap.html',1,'derecho::rpc::QueryResults&lt; void &gt;']]],
+  ['replymap',['ReplyMap',['../classderecho_1_1rpc_1_1QueryResults_3_01void_01_4_1_1ReplyMap.html',1,'derecho::rpc::QueryResults&lt; void &gt;::ReplyMap'],['../classderecho_1_1rpc_1_1QueryResults_1_1ReplyMap.html',1,'derecho::rpc::QueryResults&lt; Ret &gt;::ReplyMap']]],
   ['resources',['resources',['../classsst_1_1resources.html',1,'sst']]],
   ['resources_5ftwo_5fsided',['resources_two_sided',['../classsst_1_1resources__two__sided.html',1,'sst']]],
   ['restartleaderstate',['RestartLeaderState',['../classderecho_1_1RestartLeaderState.html',1,'derecho']]],
   ['restartstate',['RestartState',['../structderecho_1_1RestartState.html',1,'derecho']]],
   ['resultsst',['ResultSST',['../classResultSST.html',1,'']]],
-  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4.html#structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4_1_1Row__Extension',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;']]],
-  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_1_1Row__Extension.html',1,'sst::PredicateBuilder']]],
+  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4.html#structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4_1_1Row__Extension',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;::Row_Extension'],['../structsst_1_1PredicateBuilder_1_1Row__Extension.html',1,'sst::PredicateBuilder&lt; Row, ExtensionList &gt;::Row_Extension']]],
   ['rpcmanager',['RPCManager',['../classderecho_1_1rpc_1_1RPCManager.html',1,'derecho::rpc']]]
 ];

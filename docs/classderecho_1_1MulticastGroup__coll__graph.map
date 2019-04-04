@@ -3,6 +3,6 @@
 <area shape="rect" id="node22" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="563,138,738,179"/>
 <area shape="rect" id="node10" href="$namespacederecho.html#structderecho_1_1RDMCMessage" title="A structure containing an RDMC message (which consists of some bytes in a registered memory region) a..." alt="" coords="565,543,736,569"/>
 <area shape="rect" id="node11" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,572,416,599"/>
-<area shape="rect" id="node15" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1346,809,1493,836"/>
-<area shape="rect" id="node24" title="STL class. " alt="" coords="292,212,376,239"/>
+<area shape="rect" id="node15" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1346,811,1493,837"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="292,211,376,237"/>
 </map>

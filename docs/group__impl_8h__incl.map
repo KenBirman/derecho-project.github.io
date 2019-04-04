@@ -1,16 +1,15 @@
 <map id="derecho/group_impl.h" name="derecho/group_impl.h">
-<area shape="rect" id="node6" href="$container__template__functions_8h.html" title="Contains implementations of some useful functions on STL containers, most of which add standard&#45;but&#45;m..." alt="" coords="3016,468,3148,509"/>
-<area shape="rect" id="node12" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1135,565,1263,591"/>
-<area shape="rect" id="node23" href="$group_8h.html" title="group.h" alt="" coords="1779,87,1844,114"/>
-<area shape="rect" id="node50" href="$make__kind__map_8h.html" title="A useful template function that helps construct mutils::KindMap instances. " alt="" coords="567,169,695,196"/>
-<area shape="rect" id="node20" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="651,647,801,688"/>
-<area shape="rect" id="node32" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1556,565,1629,591"/>
-<area shape="rect" id="node33" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="2573,565,2716,591"/>
-<area shape="rect" id="node34" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1453,169,1610,196"/>
-<area shape="rect" id="node39" href="$replicated_8h.html" title="replicated.h" alt="" coords="1308,244,1397,271"/>
-<area shape="rect" id="node43" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1189,319,1297,345"/>
-<area shape="rect" id="node44" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1962,393,2079,420"/>
-<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2346,475,2461,502"/>
-<area shape="rect" id="node40" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="923,393,1057,420"/>
-<area shape="rect" id="node42" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1327,475,1410,502"/>
+<area shape="rect" id="node6" href="$container__template__functions_8h.html" title="Contains implementations of some useful functions on STL containers, most of which add standard&#45;but&#45;m..." alt="" coords="33,468,165,509"/>
+<area shape="rect" id="node12" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2355,475,2483,502"/>
+<area shape="rect" id="node23" href="$group_8h.html" title="group.h" alt="" coords="1537,87,1602,114"/>
+<area shape="rect" id="node50" href="$make__kind__map_8h.html" title="A useful template function that helps construct mutils::KindMap instances. " alt="" coords="2585,87,2713,114"/>
+<area shape="rect" id="node20" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1977,557,2127,599"/>
+<area shape="rect" id="node32" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1619,475,1693,502"/>
+<area shape="rect" id="node33" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="915,565,1058,591"/>
+<area shape="rect" id="node34" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1415,169,1572,196"/>
+<area shape="rect" id="node39" href="$replicated_8h.html" title="replicated.h" alt="" coords="1834,244,1923,271"/>
+<area shape="rect" id="node43" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1682,319,1790,345"/>
+<area shape="rect" id="node44" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1093,393,1211,420"/>
+<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="803,475,917,502"/>
+<area shape="rect" id="node40" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="1915,393,2050,420"/>
 </map>

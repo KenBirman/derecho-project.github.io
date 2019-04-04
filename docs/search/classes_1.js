@@ -7,6 +7,5 @@ var searchData=
   ['blob',['Blob',['../classBlob.html',1,'']]],
   ['block_5ftransfer',['block_transfer',['../classschedule.html#structschedule_1_1block__transfer',1,'schedule']]],
   ['bytearrayobject',['ByteArrayObject',['../classByteArrayObject.html',1,'']]],
-  ['bytes',['Bytes',['../structderecho_1_1Bytes.html',1,'derecho']]],
-  ['bytes',['Bytes',['../structBytes.html',1,'']]]
+  ['bytes',['Bytes',['../structderecho_1_1Bytes.html',1,'derecho::Bytes'],['../structBytes.html',1,'Bytes']]]
 ];

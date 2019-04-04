@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['binomial_5fsend',['BINOMIAL_SEND',['../namespacerdmc.html#a9d1fe0386ac7af59a3ee09836d6e3187a939a9c4d26823c1ddfe9da09e46d953f',1,'rdmc']]]
+  ['abort',['ABORT',['../namespacederecho.html#a3eda31de4dd1e1caa4329b6e3175f17ea8d12a2ca7e5a64036d7251a3eda51a38',1,'derecho']]]
 ];

@@ -1,20 +1,20 @@
-<map id="applications/archive/latency_test.cpp" name="applications/archive/latency_test.cpp">
-<area shape="rect" id="node10" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="859,468,953,495"/>
-<area shape="rect" id="node19" href="$rdmc_2util_8h.html" title="rdmc/util.h" alt="" coords="205,468,287,495"/>
-<area shape="rect" id="node22" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2671,95,2800,121"/>
-<area shape="rect" id="node49" href="$archive_2log__results_8h.html" title="log_results.h" alt="" coords="3509,95,3605,121"/>
-<area shape="rect" id="node11" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="963,550,1046,577"/>
-<area shape="rect" id="node16" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="2675,632,2825,673"/>
-<area shape="rect" id="node20" href="$time_8h.html" title="time/time.h" alt="" coords="551,550,637,577"/>
-<area shape="rect" id="node23" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3240,639,3383,666"/>
-<area shape="rect" id="node25" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2587,550,2715,577"/>
-<area shape="rect" id="node30" href="$group_8h.html" title="group.h" alt="" coords="2075,169,2140,196"/>
-<area shape="rect" id="node43" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2398,550,2513,577"/>
-<area shape="rect" id="node47" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="2773,169,2935,196"/>
-<area shape="rect" id="node48" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2375,468,2522,495"/>
-<area shape="rect" id="node36" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1121,550,1195,577"/>
-<area shape="rect" id="node37" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1607,244,1765,271"/>
-<area shape="rect" id="node38" href="$replicated_8h.html" title="replicated.h" alt="" coords="1457,319,1547,345"/>
-<area shape="rect" id="node39" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="2040,393,2148,420"/>
-<area shape="rect" id="node41" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1829,468,1946,495"/>
+<map id="applications/tests/performance_tests/latency_test.cpp" name="applications/tests/performance_tests/latency_test.cpp">
+<area shape="rect" id="node10" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1573,191,1667,218"/>
+<area shape="rect" id="node19" href="$rdmc_2util_8h.html" title="rdmc/util.h" alt="" coords="1195,273,1277,300"/>
+<area shape="rect" id="node22" href="$aggregate__latency_8h.html" title="aggregate_latency.h" alt="" coords="615,109,753,136"/>
+<area shape="rect" id="node37" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2342,109,2471,136"/>
+<area shape="rect" id="node49" href="$tests_2performance__tests_2log__results_8h.html" title="log_results.h" alt="" coords="3573,109,3669,136"/>
+<area shape="rect" id="node11" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="1643,273,1725,300"/>
+<area shape="rect" id="node16" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1811,348,1962,389"/>
+<area shape="rect" id="node20" href="$time_8h.html" title="utils/time.h" alt="" coords="1135,355,1222,382"/>
+<area shape="rect" id="node23" href="$sst_8h.html" title="sst/sst.h" alt="" coords="647,191,721,218"/>
+<area shape="rect" id="node33" href="$predicates_8h.html" title="predicates.h" alt="" coords="697,355,791,382"/>
+<area shape="rect" id="node35" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1403,273,1443,300"/>
+<area shape="rect" id="node36" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="885,273,968,300"/>
+<area shape="rect" id="node38" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3169,355,3311,382"/>
+<area shape="rect" id="node40" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2413,273,2541,300"/>
+<area shape="rect" id="node44" href="$group_8h.html" title="group.h" alt="" coords="2374,191,2439,218"/>
+<area shape="rect" id="node45" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2173,273,2288,300"/>
+<area shape="rect" id="node46" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="2515,191,2677,218"/>
+<area shape="rect" id="node47" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2203,191,2349,218"/>
 </map>

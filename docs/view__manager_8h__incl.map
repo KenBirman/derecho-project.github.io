@@ -1,18 +1,18 @@
 <map id="derecho/view_manager.h" name="derecho/view_manager.h">
-<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="757,393,885,420"/>
-<area shape="rect" id="node19" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="246,393,378,420"/>
-<area shape="rect" id="node20" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1616,229,1741,256"/>
-<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2993,311,3108,338"/>
-<area shape="rect" id="node49" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2067,80,2173,107"/>
-<area shape="rect" id="node50" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2567,155,2627,181"/>
-<area shape="rect" id="node16" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1142,468,1293,509"/>
-<area shape="rect" id="node28" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="838,311,991,338"/>
-<area shape="rect" id="node31" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2535,311,2660,338"/>
-<area shape="rect" id="node32" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="1971,311,2075,338"/>
-<area shape="rect" id="node36" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2499,393,2573,420"/>
-<area shape="rect" id="node40" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1313,311,1407,338"/>
-<area shape="rect" id="node44" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2111,311,2219,338"/>
+<area shape="rect" id="node10" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2000,393,2128,420"/>
+<area shape="rect" id="node19" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="195,393,327,420"/>
+<area shape="rect" id="node20" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2107,229,2232,256"/>
+<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2371,311,2485,338"/>
+<area shape="rect" id="node49" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2481,80,2588,107"/>
+<area shape="rect" id="node50" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="3117,155,3177,181"/>
+<area shape="rect" id="node16" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1479,468,1630,509"/>
+<area shape="rect" id="node28" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="561,311,714,338"/>
+<area shape="rect" id="node31" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3253,311,3379,338"/>
+<area shape="rect" id="node32" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2733,311,2837,338"/>
+<area shape="rect" id="node36" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2763,393,2837,420"/>
+<area shape="rect" id="node40" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1102,311,1197,338"/>
+<area shape="rect" id="node44" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="1678,311,1786,338"/>
 <area shape="rect" id="node30" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1339,393,1413,420"/>
 <area shape="rect" id="node41" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="1488,393,1571,420"/>
-<area shape="rect" id="node48" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="2179,393,2322,420"/>
+<area shape="rect" id="node48" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1833,393,1975,420"/>
 </map>

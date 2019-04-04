@@ -1,18 +1,18 @@
 <map id="derecho/view_manager.cpp" name="derecho/view_manager.cpp">
-<area shape="rect" id="node4" href="$container__template__functions_8h.html" title="Contains implementations of some useful functions on STL containers, most of which add standard&#45;but&#45;m..." alt="" coords="3849,453,3981,495"/>
-<area shape="rect" id="node10" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="231,639,374,666"/>
-<area shape="rect" id="node13" href="$replicated_8h.html" title="replicated.h" alt="" coords="1326,80,1415,107"/>
-<area shape="rect" id="node45" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2783,229,2900,256"/>
-<area shape="rect" id="node19" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1520,550,1648,577"/>
-<area shape="rect" id="node26" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="837,379,971,405"/>
-<area shape="rect" id="node32" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1139,461,1221,487"/>
-<area shape="rect" id="node38" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1631,155,1739,181"/>
-<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3422,550,3495,577"/>
-<area shape="rect" id="node23" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="675,632,826,673"/>
-<area shape="rect" id="node39" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="2168,550,2299,577"/>
-<area shape="rect" id="node41" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="3066,379,3126,405"/>
-<area shape="rect" id="node42" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2905,461,3031,487"/>
-<area shape="rect" id="node44" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2424,550,2539,577"/>
-<area shape="rect" id="node47" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3465,379,3597,405"/>
-<area shape="rect" id="node48" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2535,304,2641,331"/>
+<area shape="rect" id="node4" href="$container__template__functions_8h.html" title="Contains implementations of some useful functions on STL containers, most of which add standard&#45;but&#45;m..." alt="" coords="51,453,183,495"/>
+<area shape="rect" id="node10" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3605,639,3747,666"/>
+<area shape="rect" id="node13" href="$replicated_8h.html" title="replicated.h" alt="" coords="3029,80,3118,107"/>
+<area shape="rect" id="node45" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1292,229,1409,256"/>
+<area shape="rect" id="node19" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2392,550,2520,577"/>
+<area shape="rect" id="node26" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="3082,379,3217,405"/>
+<area shape="rect" id="node33" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="2788,461,2871,487"/>
+<area shape="rect" id="node38" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="2443,155,2551,181"/>
+<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3161,550,3234,577"/>
+<area shape="rect" id="node23" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="2766,632,2917,673"/>
+<area shape="rect" id="node39" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="2136,550,2267,577"/>
+<area shape="rect" id="node41" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1683,379,1743,405"/>
+<area shape="rect" id="node42" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1009,461,1135,487"/>
+<area shape="rect" id="node44" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1349,550,1464,577"/>
+<area shape="rect" id="node47" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="563,379,695,405"/>
+<area shape="rect" id="node48" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="1436,304,1543,331"/>
 </map>

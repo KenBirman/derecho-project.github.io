@@ -1,0 +1,22 @@
+<map id="applications/archive/membership_tests.cpp" name="applications/archive/membership_tests.cpp">
+<area shape="rect" id="node3" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="4186,95,4315,121"/>
+<area shape="rect" id="node35" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1417,543,1477,569"/>
+<area shape="rect" id="node4" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="3707,781,3850,808"/>
+<area shape="rect" id="node7" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="3219,781,3347,808"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="4018,856,4169,897"/>
+<area shape="rect" id="node18" href="$group_8h.html" title="group.h" alt="" coords="3231,169,3297,196"/>
+<area shape="rect" id="node44" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2736,699,2851,726"/>
+<area shape="rect" id="node49" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="4187,543,4349,569"/>
+<area shape="rect" id="node50" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2109,617,2256,644"/>
+<area shape="rect" id="node28" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="2435,781,2509,808"/>
+<area shape="rect" id="node29" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1801,244,1959,271"/>
+<area shape="rect" id="node30" href="$replicated_8h.html" title="replicated.h" alt="" coords="3219,319,3309,345"/>
+<area shape="rect" id="node31" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="3031,393,3139,420"/>
+<area shape="rect" id="node45" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1937,468,2055,495"/>
+<area shape="rect" id="node48" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="3472,393,3568,420"/>
+<area shape="rect" id="node33" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="3979,617,4061,644"/>
+<area shape="rect" id="node36" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1891,699,2016,726"/>
+<area shape="rect" id="node37" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="1712,699,1816,726"/>
+<area shape="rect" id="node38" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1017,781,1090,808"/>
+<area shape="rect" id="node41" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1533,617,1659,644"/>
+</map>

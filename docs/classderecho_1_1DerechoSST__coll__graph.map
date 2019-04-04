@@ -1,5 +1,5 @@
 <map id="derecho::DerechoSST" name="derecho::DerechoSST">
-<area shape="rect" id="node2" href="$classsst_1_1SST.html" title="sst::SST\&lt; DerechoSST \&gt;" alt="" coords="1297,218,1471,245"/>
+<area shape="rect" id="node2" href="$classsst_1_1SST.html" title="sst::SST\&lt; DerechoSST \&gt;" alt="" coords="1297,214,1471,241"/>
 <area shape="rect" id="node5" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="438,13,543,39"/>
 <area shape="rect" id="node6" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="275,13,387,39"/>
 <area shape="rect" id="node7" href="$namespacesst.html#structsst_1_1cm__con__data__t" title="passive endpoint info to be exchanged. " alt="" coords="5,13,143,39"/>

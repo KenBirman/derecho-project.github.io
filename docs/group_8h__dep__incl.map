@@ -1,51 +1,51 @@
 <map id="derecho/group.h" name="derecho/group.h">
-<area shape="rect" id="node2" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="3474,80,3603,107"/>
-<area shape="rect" id="node50" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="3628,80,3775,107"/>
+<area shape="rect" id="node2" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="3509,80,3638,107"/>
+<area shape="rect" id="node50" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="3663,80,3809,107"/>
 <area shape="rect" id="node3" href="$asynchronous__dht_8cpp.html" title="applications/archive\l/asynchronous_dht.cpp" alt="" coords="5,162,163,203"/>
-<area shape="rect" id="node4" href="$derecho__caller__test_8cpp.html" title="applications/archive\l/derecho_caller_test.cpp" alt="" coords="187,162,351,203"/>
-<area shape="rect" id="node5" href="$gms__bw__test_8cpp.html" title="applications/archive\l/gms_bw_test.cpp" alt="" coords="375,162,513,203"/>
-<area shape="rect" id="node6" href="$gms__test_8cpp.html" title="applications/archive\l/gms_test.cpp" alt="" coords="537,162,674,203"/>
-<area shape="rect" id="node7" href="$gms__test2_8cpp.html" title="applications/archive\l/gms_test2.cpp" alt="" coords="698,162,835,203"/>
-<area shape="rect" id="node8" href="$latency__test_8cpp.html" title="applications/archive\l/latency_test.cpp" alt="" coords="859,162,997,203"/>
-<area shape="rect" id="node9" href="$long__subgroup__test_8cpp.html" title="applications/archive\l/long_subgroup_test.cpp" alt="" coords="770,266,934,307"/>
-<area shape="rect" id="node10" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="1174,162,1311,203"/>
-<area shape="rect" id="node11" href="$p2p__query__test_8cpp.html" title="applications/archive\l/p2p_query_test.cpp" alt="" coords="958,266,1098,307"/>
-<area shape="rect" id="node12" href="$repeated__rpc__test_8cpp.html" title="applications/archive\l/repeated_rpc_test.cpp" alt="" coords="1123,266,1277,307"/>
-<area shape="rect" id="node13" href="$scaling__subgroup__test_8cpp.html" title="applications/archive\l/scaling_subgroup_test.cpp" alt="" coords="1301,266,1483,307"/>
-<area shape="rect" id="node14" href="$typed__subgroup__test_8cpp.html" title="applications/archive\l/typed_subgroup_test.cpp" alt="" coords="1507,266,1679,307"/>
-<area shape="rect" id="node15" href="$multiple__senders__multiple__messages_8cpp.html" title="applications/archive\l/multiple_senders_multiple\l_messages.cpp" alt="" coords="1437,155,1613,211"/>
-<area shape="rect" id="node16" href="$objstore_8cpp.html" title="applications/archive\l/objstore.cpp" alt="" coords="1638,162,1775,203"/>
-<area shape="rect" id="node17" href="$p2p__latency__test_8cpp.html" title="applications/archive\l/p2p_latency_test.cpp" alt="" coords="1799,162,1950,203"/>
-<area shape="rect" id="node18" href="$persistent__latency__test_8cpp.html" title="applications/archive\l/persistent_latency_test.cpp" alt="" coords="1975,162,2161,203"/>
-<area shape="rect" id="node19" href="$persistent__rejoin__test_8cpp.html" title="applications/archive\l/persistent_rejoin_test.cpp" alt="" coords="2186,162,2361,203"/>
-<area shape="rect" id="node20" href="$persistent__temporal__query__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_query_test.cpp" alt="" coords="2385,155,2525,211"/>
-<area shape="rect" id="node21" href="$persistent__temporal__stability__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_stability_test.cpp" alt="" coords="2549,155,2689,211"/>
-<area shape="rect" id="node22" href="$persistent__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_bw_test.cpp" alt="" coords="2713,155,2895,211"/>
-<area shape="rect" id="node23" href="$persistent__typed__subgroup__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_test.cpp" alt="" coords="2919,155,3102,211"/>
-<area shape="rect" id="node24" href="$persistent__vector_8cpp.html" title="applications/archive\l/persistent_vector.cpp" alt="" coords="3126,162,3277,203"/>
-<area shape="rect" id="node25" href="$raw__send__test_8cpp.html" title="applications/archive\l/raw_send_test.cpp" alt="" coords="3301,162,3438,203"/>
-<area shape="rect" id="node26" href="$server__client__p2p_8cpp.html" title="applications/archive\l/server_client_p2p.cpp" alt="" coords="3462,162,3615,203"/>
-<area shape="rect" id="node27" href="$shard__iterator__p2p__test_8cpp.html" title="applications/archive\l/shard_iterator_p2p_test.cpp" alt="" coords="3640,162,3827,203"/>
-<area shape="rect" id="node28" href="$simple__send_8cpp.html" title="applications/archive\l/simple_send.cpp" alt="" coords="3851,162,3989,203"/>
-<area shape="rect" id="node29" href="$single__sender__multiple__messages_8cpp.html" title="applications/archive\l/single_sender_multiple\l_messages.cpp" alt="" coords="4013,155,4171,211"/>
-<area shape="rect" id="node30" href="$single__sender__one__message_8cpp.html" title="applications/archive\l/single_sender_one_message.cpp" alt="" coords="4196,162,4415,203"/>
-<area shape="rect" id="node31" href="$smart__membership__function__test_8cpp.html" title="applications/archive\l/smart_membership_function\l_test.cpp" alt="" coords="4439,155,4630,211"/>
-<area shape="rect" id="node32" href="$ssd__bw__test_8cpp.html" title="applications/archive\l/ssd_bw_test.cpp" alt="" coords="4654,162,4791,203"/>
-<area shape="rect" id="node33" href="$subgroup__scaling__test_8cpp.html" title="applications/archive\l/subgroup_scaling_test.cpp" alt="" coords="4816,162,4997,203"/>
-<area shape="rect" id="node34" href="$subgroup__test_8cpp.html" title="applications/archive\l/subgroup_test.cpp" alt="" coords="5022,162,5159,203"/>
-<area shape="rect" id="node35" href="$test__group__interface_8cpp.html" title="applications/archive\l/test_group_interface.cpp" alt="" coords="5183,162,5353,203"/>
-<area shape="rect" id="node36" href="$timeline__test_8cpp.html" title="applications/archive\l/timeline_test.cpp" alt="" coords="5377,162,5514,203"/>
-<area shape="rect" id="node37" href="$total__restart__test_8cpp.html" title="This experiment creates a group with a simple persistent object (containing only an integer as state)..." alt="" coords="5539,162,5688,203"/>
-<area shape="rect" id="node38" href="$typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/typed_subgroup_bw_test.cpp" alt="" coords="5713,162,5909,203"/>
-<area shape="rect" id="node39" href="$viewchange__timeline_8cpp.html" title="applications/archive\l/viewchange_timeline.cpp" alt="" coords="5933,162,6105,203"/>
-<area shape="rect" id="node40" href="$volatile__temporal__query__test_8cpp.html" title="applications/archive\l/volatile_temporal_query\l_test.cpp" alt="" coords="6129,155,6292,211"/>
-<area shape="rect" id="node41" href="$volatile__temporal__stability__test_8cpp.html" title="applications/archive\l/volatile_temporal_stability\l_test.cpp" alt="" coords="6316,155,6492,211"/>
-<area shape="rect" id="node42" href="$volatile__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/volatile_typed_subgroup\l_bw_test.cpp" alt="" coords="6517,155,6683,211"/>
-<area shape="rect" id="node43" href="$window__size__test_8cpp.html" title="applications/archive\l/window_size_test.cpp" alt="" coords="6708,162,6863,203"/>
-<area shape="rect" id="node44" href="$write__to__ssd_8cpp.html" title="applications/archive\l/write_to_ssd.cpp" alt="" coords="6887,162,7025,203"/>
-<area shape="rect" id="node45" href="$overlapping__replicated__objects_8cpp.html" title="This test creates three subgroups, one of each type Foo, Bar and Cache (defined in sample_objects..." alt="" coords="6987,259,7141,315"/>
-<area shape="rect" id="node46" href="$sample__objects_8h.html" title="Some ReplicatedObject definitions used by demonstration programs. " alt="" coords="7101,162,7235,203"/>
-<area shape="rect" id="node47" href="$simple__replicated__objects_8cpp.html" title="This test creates two subgroups, one of each type Foo and Bar (defined in sample_objects.h). " alt="" coords="7170,266,7371,307"/>
-<area shape="rect" id="node48" href="$random__messages_8cpp.html" title="applications/demos\l/random_messages.cpp" alt="" coords="7311,162,7473,203"/>
-<area shape="rect" id="node49" href="$bandwidth__test_8cpp.html" title="applications/tests\l/performance_tests/bandwidth\l_test.cpp" alt="" coords="7497,155,7695,211"/>
+<area shape="rect" id="node4" href="$debug__failure__test_8cpp.html" title="applications/archive\l/debug_failure_test.cpp" alt="" coords="187,162,344,203"/>
+<area shape="rect" id="node5" href="$derecho__caller__test_8cpp.html" title="applications/archive\l/derecho_caller_test.cpp" alt="" coords="369,162,533,203"/>
+<area shape="rect" id="node6" href="$gms__bw__test_8cpp.html" title="applications/archive\l/gms_bw_test.cpp" alt="" coords="557,162,694,203"/>
+<area shape="rect" id="node7" href="$gms__test_8cpp.html" title="applications/archive\l/gms_test.cpp" alt="" coords="718,162,855,203"/>
+<area shape="rect" id="node8" href="$gms__test2_8cpp.html" title="applications/archive\l/gms_test2.cpp" alt="" coords="879,162,1017,203"/>
+<area shape="rect" id="node9" href="$long__subgroup__test_8cpp.html" title="applications/archive\l/long_subgroup_test.cpp" alt="" coords="793,266,957,307"/>
+<area shape="rect" id="node10" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="1194,162,1331,203"/>
+<area shape="rect" id="node11" href="$p2p__send__test_8cpp.html" title="applications/archive\l/p2p_send_test.cpp" alt="" coords="981,266,1118,307"/>
+<area shape="rect" id="node12" href="$repeated__rpc__test_8cpp.html" title="applications/archive\l/repeated_rpc_test.cpp" alt="" coords="1143,266,1297,307"/>
+<area shape="rect" id="node13" href="$scaling__subgroup__test_8cpp.html" title="applications/archive\l/scaling_subgroup_test.cpp" alt="" coords="1321,266,1503,307"/>
+<area shape="rect" id="node14" href="$typed__subgroup__test_8cpp.html" title="applications/archive\l/typed_subgroup_test.cpp" alt="" coords="1527,266,1699,307"/>
+<area shape="rect" id="node15" href="$membership__tests_8cpp.html" title="applications/archive\l/membership_tests.cpp" alt="" coords="1458,162,1617,203"/>
+<area shape="rect" id="node16" href="$multiple__senders__multiple__messages_8cpp.html" title="applications/archive\l/multiple_senders_multiple\l_messages.cpp" alt="" coords="1641,155,1817,211"/>
+<area shape="rect" id="node17" href="$objstore_8cpp.html" title="applications/archive\l/objstore.cpp" alt="" coords="1842,162,1979,203"/>
+<area shape="rect" id="node18" href="$p2p__latency__test_8cpp.html" title="applications/archive\l/p2p_latency_test.cpp" alt="" coords="2003,162,2154,203"/>
+<area shape="rect" id="node19" href="$persistent__latency__test_8cpp.html" title="applications/archive\l/persistent_latency_test.cpp" alt="" coords="2179,162,2365,203"/>
+<area shape="rect" id="node20" href="$persistent__rejoin__test_8cpp.html" title="applications/archive\l/persistent_rejoin_test.cpp" alt="" coords="2390,162,2565,203"/>
+<area shape="rect" id="node21" href="$persistent__temporal__send__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_send_test.cpp" alt="" coords="2589,155,2729,211"/>
+<area shape="rect" id="node22" href="$persistent__temporal__stability__test_8cpp.html" title="applications/archive\l/persistent_temporal\l_stability_test.cpp" alt="" coords="2753,155,2893,211"/>
+<area shape="rect" id="node23" href="$persistent__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_bw_test.cpp" alt="" coords="2917,155,3099,211"/>
+<area shape="rect" id="node24" href="$persistent__typed__subgroup__test_8cpp.html" title="applications/archive\l/persistent_typed_subgroup\l_test.cpp" alt="" coords="3123,155,3306,211"/>
+<area shape="rect" id="node25" href="$persistent__vector_8cpp.html" title="applications/archive\l/persistent_vector.cpp" alt="" coords="3330,162,3481,203"/>
+<area shape="rect" id="node26" href="$raw__send__test_8cpp.html" title="applications/archive\l/raw_send_test.cpp" alt="" coords="3505,162,3642,203"/>
+<area shape="rect" id="node27" href="$rdma__for__ml_8cpp.html" title="applications/archive\l/rdma_for_ml.cpp" alt="" coords="3666,162,3803,203"/>
+<area shape="rect" id="node28" href="$server__client__p2p_8cpp.html" title="applications/archive\l/server_client_p2p.cpp" alt="" coords="3827,162,3981,203"/>
+<area shape="rect" id="node29" href="$shard__iterator__p2p__test_8cpp.html" title="applications/archive\l/shard_iterator_p2p_test.cpp" alt="" coords="4005,162,4192,203"/>
+<area shape="rect" id="node30" href="$simple__send_8cpp.html" title="applications/archive\l/simple_send.cpp" alt="" coords="4217,162,4354,203"/>
+<area shape="rect" id="node31" href="$single__sender__multiple__messages_8cpp.html" title="applications/archive\l/single_sender_multiple\l_messages.cpp" alt="" coords="4378,155,4537,211"/>
+<area shape="rect" id="node32" href="$single__sender__one__message_8cpp.html" title="applications/archive\l/single_sender_one_message.cpp" alt="" coords="4561,162,4780,203"/>
+<area shape="rect" id="node33" href="$smart__membership__function__test_8cpp.html" title="applications/archive\l/smart_membership_function\l_test.cpp" alt="" coords="4805,155,4995,211"/>
+<area shape="rect" id="node34" href="$ssd__bw__test_8cpp.html" title="applications/archive\l/ssd_bw_test.cpp" alt="" coords="5019,162,5157,203"/>
+<area shape="rect" id="node35" href="$subgroup__scaling__test_8cpp.html" title="applications/archive\l/subgroup_scaling_test.cpp" alt="" coords="5181,162,5363,203"/>
+<area shape="rect" id="node36" href="$subgroup__test_8cpp.html" title="applications/archive\l/subgroup_test.cpp" alt="" coords="5387,162,5525,203"/>
+<area shape="rect" id="node37" href="$test__group__interface_8cpp.html" title="applications/archive\l/test_group_interface.cpp" alt="" coords="5549,162,5718,203"/>
+<area shape="rect" id="node38" href="$timeline__test_8cpp.html" title="applications/archive\l/timeline_test.cpp" alt="" coords="5742,162,5879,203"/>
+<area shape="rect" id="node39" href="$total__restart__test_8cpp.html" title="This experiment creates a group with a simple persistent object (containing only an integer as state)..." alt="" coords="5904,162,6053,203"/>
+<area shape="rect" id="node40" href="$typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/typed_subgroup_bw_test.cpp" alt="" coords="6078,162,6274,203"/>
+<area shape="rect" id="node41" href="$viewchange__timeline_8cpp.html" title="applications/archive\l/viewchange_timeline.cpp" alt="" coords="6298,162,6470,203"/>
+<area shape="rect" id="node42" href="$volatile__temporal__send__test_8cpp.html" title="applications/archive\l/volatile_temporal_send\l_test.cpp" alt="" coords="6494,155,6653,211"/>
+<area shape="rect" id="node43" href="$volatile__temporal__stability__test_8cpp.html" title="applications/archive\l/volatile_temporal_stability\l_test.cpp" alt="" coords="6677,155,6853,211"/>
+<area shape="rect" id="node44" href="$volatile__typed__subgroup__bw__test_8cpp.html" title="applications/archive\l/volatile_typed_subgroup\l_bw_test.cpp" alt="" coords="6878,155,7045,211"/>
+<area shape="rect" id="node45" href="$window__size__test_8cpp.html" title="applications/archive\l/window_size_test.cpp" alt="" coords="7069,162,7224,203"/>
+<area shape="rect" id="node46" href="$write__to__ssd_8cpp.html" title="applications/archive\l/write_to_ssd.cpp" alt="" coords="7249,162,7386,203"/>
+<area shape="rect" id="node47" href="$overlapping__replicated__objects_8cpp.html" title="This test creates three subgroups, one of each type Foo, Bar and Cache (defined in sample_objects..." alt="" coords="7452,259,7607,315"/>
+<area shape="rect" id="node48" href="$sample__objects_8h.html" title="Some ReplicatedObject definitions used by demonstration programs. " alt="" coords="7410,162,7545,203"/>
+<area shape="rect" id="node49" href="$random__messages_8cpp.html" title="applications/demos\l/random_messages.cpp" alt="" coords="7621,162,7782,203"/>
 </map>

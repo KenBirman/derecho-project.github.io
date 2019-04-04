@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html#structderecho_1_1rpc_1_1RemoteInvocablePairs" title="derecho::rpc::RemoteInvocable\lPairs\&lt;... \&gt;" alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvocable\lPairs\&lt; WrappedFuns... \&gt;" alt="" coords="5,13,209,54"/>
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RemoteInvocableClass.html" title="Transforms a class into a &quot;replicated object&quot; with methods that can be invoked by RPC..." alt="" coords="257,5,461,61"/>
 </map>

@@ -15,8 +15,8 @@ For the highest performance on genuine RDMA or similar interconnects, your code 
 
 ## Source Code
 
-You can download the source code for Derecho from our main repository at <https://github.com/derecho-project/derecho-unified/>. The README hosted at that repository provides installation and usage instructions.
+You can download the source code for Derecho from our main repository at <https://github.com/derecho-project/derecho/>. The README hosted at that repository provides installation and usage instructions.
 
 ## Documentation
 
-The GitHub README at the derecho-unified repository contains a brief guide to setting up and running a distributed service using Derecho. You can also [read it here](userguide.md). In addition, most of the developer-facing code in Derecho is documented with Doxygen comments, and the generated Doxygen HTML is [hosted at this website](docs/index.html) for your convenience. We hope to publish a more detailed user guide on this website soon. 
+The GitHub README at the derecho repository contains a brief guide to setting up and running a distributed service using Derecho. You can also [read it here](userguide.md). In addition, most of the developer-facing code in Derecho is documented with Doxygen comments, and the generated Doxygen HTML is [hosted at this website](docs/index.html) for your convenience. We hope to publish a more detailed user guide on this website soon. 

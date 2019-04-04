@@ -1,9 +1,9 @@
 <map id="applications/archive/token_passing.cpp" name="applications/archive/token_passing.cpp">
-<area shape="rect" id="node6" href="$sst_8h.html" title="sst/sst.h" alt="" coords="870,95,943,121"/>
-<area shape="rect" id="node19" href="$predicates_8h.html" title="predicates.h" alt="" coords="1516,244,1609,271"/>
-<area shape="rect" id="node22" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="255,244,295,271"/>
-<area shape="rect" id="node25" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="964,169,1047,196"/>
-<area shape="rect" id="node24" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="199,319,350,360"/>
-<area shape="rect" id="node29" href="$time_8h.html" title="time.h" alt="" coords="401,244,460,271"/>
-<area shape="rect" id="node32" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="711,244,795,271"/>
+<area shape="rect" id="node6" href="$sst_8h.html" title="sst/sst.h" alt="" coords="903,95,977,121"/>
+<area shape="rect" id="node20" href="$predicates_8h.html" title="predicates.h" alt="" coords="1549,244,1643,271"/>
+<area shape="rect" id="node23" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="255,244,295,271"/>
+<area shape="rect" id="node26" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1040,169,1123,196"/>
+<area shape="rect" id="node25" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="199,319,350,360"/>
+<area shape="rect" id="node30" href="$time_8h.html" title="time.h" alt="" coords="435,244,493,271"/>
+<area shape="rect" id="node33" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="745,244,829,271"/>
 </map>

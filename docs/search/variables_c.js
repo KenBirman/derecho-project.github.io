@@ -4,7 +4,8 @@ var searchData=
   ['last_5fknown_5fview_5fmembers',['last_known_view_members',['../classderecho_1_1RestartLeaderState.html#a8b5ee977309f0a3bb6511fb283660489',1,'derecho::RestartLeaderState']]],
   ['last_5fsuspected',['last_suspected',['../classderecho_1_1ViewManager.html#a7ebc1fc405fd71fcc399e8f36a2e47d3',1,'derecho::ViewManager']]],
   ['last_5ftransfer_5fmedium',['last_transfer_medium',['../classderecho_1_1MulticastGroup.html#aa0fcce72535339664ad0f99e56586bfa',1,'derecho::MulticastGroup']]],
-  ['latency',['latency',['../structexp__result.html#a6766812741c6bddb271b0ff46cf8b23d',1,'exp_result']]],
+  ['latency',['latency',['../classResultSST.html#a478f50e6d8a9bd507014d1d051b14b62',1,'ResultSST::latency()'],['../structexp__result.html#a6766812741c6bddb271b0ff46cf8b23d',1,'exp_result::latency()']]],
+  ['latency_5fstd_5fdev',['latency_std_dev',['../classResultSST.html#a8343c05a6d0ed4ba791c0e77b7d04af1',1,'ResultSST']]],
   ['leader_5fcommitted_5fhandle',['leader_committed_handle',['../classderecho_1_1ViewManager.html#a157530f03aaec0493b03a4cf770e4a22',1,'derecho::ViewManager']]],
   ['leader_5fconnection',['leader_connection',['../classderecho_1_1Group.html#a80efff7e5a3654bb456ce0084a5c8864',1,'derecho::Group']]],
   ['leader_5fid',['leader_id',['../structderecho_1_1RaggedTrim.html#a90d5f56a05c1942d12af7f706d14d454',1,'derecho::RaggedTrim::leader_id()'],['../namespacederecho.html#a9cc9007490ab7831ba3375b276acc4cf',1,'derecho::JoinResponse::leader_id()']]],
@@ -21,6 +22,6 @@ var searchData=
   ['log',['log',['../classBar.html#aad0c849b5faf335b6da8003047048892',1,'Bar::log()'],['../classStringObject.html#a812c25c27d5c431d0bc392b7fe37f9ba',1,'StringObject::log()']]],
   ['log2_5fnum_5fmembers',['log2_num_members',['../classbinomial__schedule.html#ace6fce23aead28446873f4e2f19d6845',1,'binomial_schedule']]],
   ['logged_5fragged_5ftrim',['logged_ragged_trim',['../structderecho_1_1RestartState.html#ae909b0ed01e2f2b35dfe5a8a95df2293',1,'derecho::RestartState']]],
-  ['logger',['logger',['../classderecho_1_1Group.html#a75fe749be63620e07404e6f68ae63f05',1,'derecho::Group::logger()'],['../classderecho_1_1PersistenceManager.html#a0c373d327a9c0370cdb8c6f61bf17b4f',1,'derecho::PersistenceManager::logger()'],['../classderecho_1_1rpc_1_1RemoteInvocableClass.html#aa1030302abd53b13a56867992dac586e',1,'derecho::rpc::RemoteInvocableClass::logger()'],['../classderecho_1_1rpc_1_1RemoteInvocableClass_3_01IdentifyingClass_01_4.html#a6190f0748a0745f0db1b4410795de02f',1,'derecho::rpc::RemoteInvocableClass&lt; IdentifyingClass &gt;::logger()'],['../classderecho_1_1rpc_1_1RPCManager.html#aff77529b2010bd0e83b785067d81bb20',1,'derecho::rpc::RPCManager::logger()']]],
+  ['logger',['logger',['../classderecho_1_1Group.html#a75fe749be63620e07404e6f68ae63f05',1,'derecho::Group::logger()'],['../classderecho_1_1PersistenceManager.html#af30290f45503db8d4a84b86f8a0b3278',1,'derecho::PersistenceManager::logger()'],['../classderecho_1_1rpc_1_1RemoteInvocableClass.html#aa1030302abd53b13a56867992dac586e',1,'derecho::rpc::RemoteInvocableClass::logger()'],['../classderecho_1_1rpc_1_1RemoteInvocableClass_3_01IdentifyingClass_01_4.html#a6190f0748a0745f0db1b4410795de02f',1,'derecho::rpc::RemoteInvocableClass&lt; IdentifyingClass &gt;::logger()'],['../classderecho_1_1rpc_1_1RPCManager.html#aff77529b2010bd0e83b785067d81bb20',1,'derecho::rpc::RPCManager::logger()']]],
   ['longest_5flog_5fversions',['longest_log_versions',['../classderecho_1_1RestartLeaderState.html#a786d695f407ce24448fa0a4b0b28daa4',1,'derecho::RestartLeaderState']]]
 ];

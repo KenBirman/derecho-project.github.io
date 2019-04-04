@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['objects',['objects',['../classObjStore.html#a7e0e525e5986fe50b710bd010a13d448',1,'ObjStore']]],
+  ['object_5fwatcher',['object_watcher',['../classobjectstore_1_1VolatileUnloggedObjectStore.html#abc2f877cc7198aa31d04c6300729d97f',1,'objectstore::VolatileUnloggedObjectStore::object_watcher()'],['../classobjectstore_1_1DeltaObjectStoreCore.html#ad3f7453de6d630cf20f5e470b20cbd59',1,'objectstore::DeltaObjectStoreCore::object_watcher()'],['../classobjectstore_1_1ObjectStoreService.html#a9c8646c389be0d69a4dd21bd2c53f7fe',1,'objectstore::ObjectStoreService::object_watcher()']]],
+  ['objects',['objects',['../classObjStore.html#a7e0e525e5986fe50b710bd010a13d448',1,'ObjStore::objects()'],['../classobjectstore_1_1VolatileUnloggedObjectStore.html#afbc9f66dbc4054b1d700e720df30c1b8',1,'objectstore::VolatileUnloggedObjectStore::objects()'],['../classobjectstore_1_1DeltaObjectStoreCore.html#a815581bfdbc3dddb96b7c91c6d5e0183',1,'objectstore::DeltaObjectStoreCore::objects()']]],
   ['objects_5fby_5fsubgroup_5fid',['objects_by_subgroup_id',['../classderecho_1_1Group.html#ad12ac64445db06841aac3687740df4a3',1,'derecho::Group']]],
   ['offset',['offset',['../namespacerdmc.html#ae6f4f8648047e672c2ce70f2bd386de3',1,'rdmc::receive_destination']]],
   ['oid',['oid',['../classOSObject.html#a927e179508f016bad7054fda05a372af',1,'OSObject']]],
@@ -13,7 +14,6 @@ var searchData=
   ['outgoing_5fblock',['outgoing_block',['../classpolling__group.html#a7fd79eda9d654ed877603be1dba060b6',1,'polling_group']]],
   ['outgoing_5fp2p_5fbuffers',['outgoing_p2p_buffers',['../classsst_1_1P2PConnections.html#af9a28371b4eefe50698adf64e775fdf8',1,'sst::P2PConnections']]],
   ['outgoing_5fp2p_5freply_5fseq_5fnums',['outgoing_p2p_reply_seq_nums',['../classsst_1_1P2PConnections.html#a3e9dc27757cedfd4de41fb4bf6846a96',1,'sst::P2PConnections']]],
-  ['outgoing_5fquery_5fseq_5fnums',['outgoing_query_seq_nums',['../classsst_1_1P2PConnections.html#a059d31e5325fa86f5f3af6241ffc0334',1,'sst::P2PConnections']]],
   ['outgoing_5frpc_5freply_5fseq_5fnums',['outgoing_rpc_reply_seq_nums',['../classsst_1_1P2PConnections.html#a5cdeb0f8021cce40adb7b6f5df8bda64',1,'sst::P2PConnections']]],
   ['outgoing_5fsend_5fseq_5fnums',['outgoing_send_seq_nums',['../classsst_1_1P2PConnections.html#a930862bc9993e2920f8287395fb5470e',1,'sst::P2PConnections']]]
 ];

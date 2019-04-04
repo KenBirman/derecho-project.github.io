@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node1" href="$classderecho_1_1__Group.html" title="derecho::_Group" alt="" coords="5,74,124,101"/>
+<area shape="rect" id="node2" href="$classderecho_1_1Group.html" title="The top&#45;level object for creating a Derecho group. " alt="" coords="415,12,601,54"/>
+<area shape="rect" id="node3" href="$classderecho_1_1GroupProjection.html" title="derecho::GroupProjection\l\&lt; ReplicatedType \&gt;" alt="" coords="172,34,341,75"/>
+<area shape="rect" id="node4" href="$classderecho_1_1Group.html" title="derecho::Group\&lt; objectstore\l::VolatileUnloggedObjectStore,\l objectstore::PersistentLoggedObject\lStore \&gt;" alt="" coords="389,114,627,184"/>
+<area shape="rect" id="node5" href="$classderecho_1_1GroupProjection.html" title="derecho::GroupProjection\l\&lt; ReplicatedTypes \&gt;" alt="" coords="172,99,341,140"/>
 </map>

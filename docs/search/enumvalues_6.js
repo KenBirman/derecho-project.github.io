@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['ok',['OK',['../namespacederecho.html#a950a5aae55e86f79d1478dd9b142eeb4ae0aa021e21dddbd6d8cecec71e9cf564',1,'derecho']]],
-  ['one_5ftime',['ONE_TIME',['../namespacesst.html#abaf45d665334a2ff0cf9cf94dba231a6aa85711ee66c0eba41a1faf855f388c48',1,'sst']]],
-  ['ordered',['ORDERED',['../namespacederecho.html#a1fb14b9518cde9d5f222d1d6039b8bdcaabc458a817b34b4750413b587f536ac0',1,'derecho']]]
+  ['id_5fin_5fuse',['ID_IN_USE',['../namespacederecho.html#a950a5aae55e86f79d1478dd9b142eeb4a7bcc2a64209055d2ab40018c53bc9a03',1,'derecho']]],
+  ['init_5fempty',['INIT_EMPTY',['../namespacemyTests.html#a17c628f4a3b65a198fa7218c43091277aaab546afb0da0424a739b5ceba3cb0a7',1,'myTests']]],
+  ['inter_5fempty',['INTER_EMPTY',['../namespacemyTests.html#a17c628f4a3b65a198fa7218c43091277a7ec3828c4d4385aad0d340d36813a6de',1,'myTests']]]
 ];

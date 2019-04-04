@@ -1,18 +1,18 @@
 <map id="applications/tests/unit_tests/rpc_function_types.cpp" name="applications/tests/unit_tests/rpc_function_types.cpp">
-<area shape="rect" id="node2" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="1850,109,1980,136"/>
-<area shape="rect" id="node3" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="2673,654,2816,681"/>
-<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="631,565,759,591"/>
-<area shape="rect" id="node14" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1456,647,1606,688"/>
-<area shape="rect" id="node17" href="$group_8h.html" title="group.h" alt="" coords="1882,184,1948,211"/>
-<area shape="rect" id="node41" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2620,565,2735,591"/>
-<area shape="rect" id="node47" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="144,408,305,435"/>
-<area shape="rect" id="node48" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2823,483,2970,509"/>
-<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="533,565,606,591"/>
-<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1514,259,1671,285"/>
-<area shape="rect" id="node33" href="$replicated_8h.html" title="replicated.h" alt="" coords="1201,333,1290,360"/>
-<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1673,408,1781,435"/>
-<area shape="rect" id="node39" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1938,483,2055,509"/>
-<area shape="rect" id="node46" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="756,408,852,435"/>
-<area shape="rect" id="node36" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="919,483,1002,509"/>
-<area shape="rect" id="node50" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2759,565,2884,591"/>
+<area shape="rect" id="node2" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2186,109,2315,136"/>
+<area shape="rect" id="node3" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="618,654,761,681"/>
+<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1701,565,1829,591"/>
+<area shape="rect" id="node14" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1015,647,1166,688"/>
+<area shape="rect" id="node17" href="$group_8h.html" title="group.h" alt="" coords="2218,184,2283,211"/>
+<area shape="rect" id="node42" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2931,565,3045,591"/>
+<area shape="rect" id="node47" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="463,408,625,435"/>
+<area shape="rect" id="node48" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="3133,483,3280,509"/>
+<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="246,565,319,591"/>
+<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1687,259,1844,285"/>
+<area shape="rect" id="node33" href="$replicated_8h.html" title="replicated.h" alt="" coords="1179,333,1269,360"/>
+<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1518,408,1626,435"/>
+<area shape="rect" id="node40" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2480,483,2597,509"/>
+<area shape="rect" id="node46" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2208,483,2304,509"/>
+<area shape="rect" id="node36" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1092,483,1175,509"/>
+<area shape="rect" id="node50" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3069,565,3195,591"/>
 </map>

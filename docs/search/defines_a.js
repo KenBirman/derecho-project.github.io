@@ -7,5 +7,8 @@ var searchData=
   ['lf_5fwmr_5fkey',['LF_WMR_KEY',['../lf_8cpp.html#a5ee13940a93a591b097579a6012abe40',1,'lf.cpp']]],
   ['local',['LOCAL',['../count__write_8cpp.html#a3758dd5d300a594312c95bc393378df0',1,'LOCAL():&#160;count_write.cpp'],['../test__failure__handling_8cpp.html#a3758dd5d300a594312c95bc393378df0',1,'LOCAL():&#160;test_failure_handling.cpp']]],
   ['log_5fevent',['LOG_EVENT',['../rdmc_2util_8h.html#a45a1fef558b2d5230e197e70a4e8f9d2',1,'util.h']]],
+  ['logger_5ffactory_5finitialized',['LOGGER_FACTORY_INITIALIZED',['../logger_8cpp.html#ad3792628686a5bd4f9d0b7f1f3180ed7',1,'logger.cpp']]],
+  ['logger_5ffactory_5finitializing',['LOGGER_FACTORY_INITIALIZING',['../logger_8cpp.html#af06dcb941705c791c23641648bd62e6c',1,'logger.cpp']]],
+  ['logger_5ffactory_5funinitialized',['LOGGER_FACTORY_UNINITIALIZED',['../logger_8cpp.html#a0db73da200a3a6fe02e7f13969577a38',1,'logger.cpp']]],
   ['logtail_5ffile',['LOGTAIL_FILE',['../persistent_2test_8cpp.html#a7a504479ada1559940aa99439dd6cc3e',1,'test.cpp']]]
 ];

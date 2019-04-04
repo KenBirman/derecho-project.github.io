@@ -1,0 +1,21 @@
+<map id="objectstore::ObjectStoreService" name="objectstore::ObjectStoreService">
+<area shape="rect" id="node20" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="369,504,475,531"/>
+<area shape="rect" id="node4" href="$classderecho_1_1Group.html" title="derecho::Group\&lt; objectstore\l::VolatileUnloggedObjectStore,\l objectstore::PersistentLoggedObject\lStore \&gt;" alt="" coords="2587,674,2824,745"/>
+<area shape="rect" id="node5" href="$classderecho_1_1__Group.html" title="derecho::_Group" alt="" coords="1839,596,1958,623"/>
+<area shape="rect" id="node6" href="$classderecho_1_1GroupProjection.html" title="derecho::GroupProjection\l\&lt; ReplicatedTypes \&gt;" alt="" coords="2227,629,2397,670"/>
+<area shape="rect" id="node7" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2221,1172,2403,1199"/>
+<area shape="rect" id="node9" href="$classsst_1_1P2PConnections.html" title="sst::P2PConnections" alt="" coords="1447,1245,1593,1272"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="1075,1081,1159,1108"/>
+<area shape="rect" id="node16" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="1821,667,1976,693"/>
+<area shape="rect" id="node48" href="$classderecho_1_1PersistenceManager.html" title="PersistenceManager is responsible for persisting all the data in a group. " alt="" coords="2215,791,2409,817"/>
+<area shape="rect" id="node18" href="$classderecho_1_1RestartLeaderState.html" title="derecho::RestartLeaderState" alt="" coords="1023,680,1212,707"/>
+<area shape="rect" id="node25" href="$structderecho_1_1DerechoParams.html" title="Bundles together a set of low&#45;level parameters for configuring Derecho groups. " alt="" coords="679,747,849,773"/>
+<area shape="rect" id="node24" href="$structderecho_1_1RestartState.html" title="derecho::RestartState" alt="" coords="689,615,839,641"/>
+<area shape="rect" id="node26" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="687,812,841,839"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1459,928,1581,955"/>
+<area shape="rect" id="node30" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="1440,117,1600,144"/>
+<area shape="rect" id="node40" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="1442,282,1598,323"/>
+<area shape="rect" id="node35" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="721,213,807,240"/>
+<area shape="rect" id="node36" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="1435,366,1605,407"/>
+<area shape="rect" id="node47" href="$structderecho_1_1rpc_1_1RPCManager_1_1fifo__req.html" title="derecho::rpc::RPCManager\l::fifo_req" alt="" coords="1429,1435,1611,1477"/>
+</map>

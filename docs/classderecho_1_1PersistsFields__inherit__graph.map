@@ -1,7 +1,8 @@
 <map id="derecho::PersistsFields" name="derecho::PersistsFields">
-<area shape="rect" id="node2" href="$classByteArrayObject.html" title="Non&#45;Persitent Object with vairable sizes. " alt="" coords="25,80,144,107"/>
-<area shape="rect" id="node3" href="$structderecho_1_1Bytes.html" title="derecho::Bytes" alt="" coords="168,80,279,107"/>
-<area shape="rect" id="node4" href="$classObjStore.html" title="ObjStore" alt="" coords="303,80,376,107"/>
-<area shape="rect" id="node5" href="$classPersistentThing.html" title="PersistentThing" alt="" coords="400,80,513,107"/>
-<area shape="rect" id="node6" href="$classPFoo.html" title="Example for replicated object with Persistent&lt;T&gt; " alt="" coords="538,80,591,107"/>
+<area shape="rect" id="node2" href="$classByteArrayObject.html" title="Non&#45;Persitent Object with vairable sizes. " alt="" coords="250,35,369,62"/>
+<area shape="rect" id="node3" href="$structderecho_1_1Bytes.html" title="derecho::Bytes" alt="" coords="254,86,365,113"/>
+<area shape="rect" id="node4" href="$classobjectstore_1_1PersistentLoggedObjectStore.html" title="objectstore::PersistentLogged\lObjectStore" alt="" coords="212,137,407,179"/>
+<area shape="rect" id="node5" href="$classObjStore.html" title="ObjStore" alt="" coords="273,203,346,230"/>
+<area shape="rect" id="node6" href="$classPersistentThing.html" title="PersistentThing" alt="" coords="253,254,366,281"/>
+<area shape="rect" id="node7" href="$classPFoo.html" title="Example for replicated object with Persistent&lt;T&gt; " alt="" coords="283,305,336,331"/>
 </map>

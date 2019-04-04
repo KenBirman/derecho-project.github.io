@@ -1,3 +1,5 @@
 <map id="derecho::GroupReference" name="derecho::GroupReference">
-<area shape="rect" id="node2" href="$classHashTable.html" title="HashTable\&lt; DataType \&gt;" alt="" coords="7,80,174,107"/>
+<area shape="rect" id="node2" href="$classHashTable.html" title="HashTable\&lt; DataType \&gt;" alt="" coords="238,5,405,32"/>
+<area shape="rect" id="node3" href="$classobjectstore_1_1PersistentLoggedObjectStore.html" title="objectstore::PersistentLogged\lObjectStore" alt="" coords="224,57,419,98"/>
+<area shape="rect" id="node4" href="$classobjectstore_1_1VolatileUnloggedObjectStore.html" title="objectstore::VolatileUnlogged\lObjectStore" alt="" coords="225,122,417,163"/>
 </map>

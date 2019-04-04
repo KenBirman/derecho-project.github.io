@@ -7,6 +7,9 @@ var searchData=
   ['all_5findices',['all_indices',['../classsst_1_1SST.html#a2d24b35304bf9a9d8ae75a8309cb4923',1,'sst::SST']]],
   ['allocated_5fbuffer',['allocated_buffer',['../classrdma_1_1memory__region.html#a4108874859f292d96fa5faadaba5b5d7',1,'rdma::memory_region']]],
   ['already_5ffailed',['already_failed',['../structsst_1_1SSTParams.html#afef368aad04b37b745dbec39d09ed474',1,'sst::SSTParams']]],
+  ['any_5fpersistent_5fobjects',['any_persistent_objects',['../classderecho_1_1ViewManager.html#add8714953bc9ac41b6eff6a7b574f859',1,'derecho::ViewManager']]],
+  ['argc',['argc',['../ObjectStoreService_8cpp.html#ad1447518f4372828b8435ae82e48499e',1,'ObjectStoreService.cpp']]],
+  ['argv',['argv',['../ObjectStoreService_8cpp.html#af2efa898e9eed6fe6715279cb1ec35b0',1,'ObjectStoreService.cpp']]],
   ['avg_5fresponse_5ftime',['avg_response_time',['../average__load__pred_8cpp.html#a448d79df755c1e66e75bf131ca5c2e65',1,'Load_Row']]],
   ['avg_5ftimes',['avg_times',['../classResultSST.html#a02c00ae6559eaa0152b544ea305d7907',1,'ResultSST']]]
 ];

@@ -1,18 +1,18 @@
 <map id="derecho/view.h" name="derecho/view.h">
-<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="467,319,595,345"/>
-<area shape="rect" id="node16" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2712,162,2837,189"/>
-<area shape="rect" id="node17" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="315,162,419,189"/>
-<area shape="rect" id="node22" href="$sst_8h.html" title="sst/sst.h" alt="" coords="965,244,1038,271"/>
-<area shape="rect" id="node34" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1949,80,2075,107"/>
-<area shape="rect" id="node13" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1363,393,1514,435"/>
-<area shape="rect" id="node31" href="$predicates_8h.html" title="predicates.h" alt="" coords="189,401,283,427"/>
-<area shape="rect" id="node32" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1191,319,1231,345"/>
-<area shape="rect" id="node33" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="913,319,996,345"/>
-<area shape="rect" id="node41" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1834,244,1987,271"/>
-<area shape="rect" id="node46" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="2289,244,2383,271"/>
-<area shape="rect" id="node49" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2225,162,2333,189"/>
-<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2660,319,2775,345"/>
-<area shape="rect" id="node42" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1661,401,1793,427"/>
-<area shape="rect" id="node43" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="2258,319,2331,345"/>
-<area shape="rect" id="node47" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="2100,319,2183,345"/>
+<area shape="rect" id="node6" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="367,319,495,345"/>
+<area shape="rect" id="node16" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2864,162,2990,189"/>
+<area shape="rect" id="node17" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="786,162,890,189"/>
+<area shape="rect" id="node22" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2550,244,2624,271"/>
+<area shape="rect" id="node35" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2054,80,2179,107"/>
+<area shape="rect" id="node13" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="968,393,1118,435"/>
+<area shape="rect" id="node32" href="$predicates_8h.html" title="predicates.h" alt="" coords="2474,401,2567,427"/>
+<area shape="rect" id="node33" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="2279,319,2319,345"/>
+<area shape="rect" id="node34" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="3035,319,3118,345"/>
+<area shape="rect" id="node41" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1632,244,1785,271"/>
+<area shape="rect" id="node46" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1146,244,1241,271"/>
+<area shape="rect" id="node49" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2441,162,2549,189"/>
+<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1434,319,1548,345"/>
+<area shape="rect" id="node42" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="2266,401,2398,427"/>
+<area shape="rect" id="node43" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1032,319,1105,345"/>
+<area shape="rect" id="node47" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="874,319,956,345"/>
 </map>

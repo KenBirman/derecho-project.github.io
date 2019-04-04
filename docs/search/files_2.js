@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['com_5fderecho_5fobjectstore_5fobjectstoreservice_2eh',['com_derecho_objectstore_ObjectStoreService.h',['../com__derecho__objectstore__ObjectStoreService_8h.html',1,'']]],
   ['combinator_5futils_2eh',['combinator_utils.h',['../combinator__utils_8h.html',1,'']]],
   ['combinators_2eh',['combinators.h',['../combinators_8h.html',1,'']]],
   ['compute_5fnodes_5flist_2ecpp',['compute_nodes_list.cpp',['../compute__nodes__list_8cpp.html',1,'']]],

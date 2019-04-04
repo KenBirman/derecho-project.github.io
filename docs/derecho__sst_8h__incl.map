@@ -1,10 +1,10 @@
 <map id="derecho/derecho_sst.h" name="derecho/derecho_sst.h">
-<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="689,155,817,181"/>
-<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="842,229,992,271"/>
-<area shape="rect" id="node18" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1515,80,1588,107"/>
-<area shape="rect" id="node29" href="$predicates_8h.html" title="predicates.h" alt="" coords="1225,237,1318,263"/>
-<area shape="rect" id="node31" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1261,155,1301,181"/>
-<area shape="rect" id="node33" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1813,155,1896,181"/>
-<area shape="rect" id="node37" href="$time_8h.html" title="time.h" alt="" coords="1068,237,1126,263"/>
-<area shape="rect" id="node39" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1812,237,1896,263"/>
+<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="568,155,696,181"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="889,229,1039,271"/>
+<area shape="rect" id="node18" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1599,80,1673,107"/>
+<area shape="rect" id="node30" href="$predicates_8h.html" title="predicates.h" alt="" coords="1589,237,1683,263"/>
+<area shape="rect" id="node32" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1115,155,1155,181"/>
+<area shape="rect" id="node34" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1912,155,1995,181"/>
+<area shape="rect" id="node38" href="$time_8h.html" title="time.h" alt="" coords="1483,237,1541,263"/>
+<area shape="rect" id="node40" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1809,237,1893,263"/>
 </map>

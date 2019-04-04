@@ -1,9 +1,0 @@
-<map id="derecho/persistence.h" name="derecho/persistence.h">
-<area shape="rect" id="node8" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="1388,87,1492,114"/>
-<area shape="rect" id="node9" href="$sst_8h.html" title="sst/sst.h" alt="" coords="834,169,908,196"/>
-<area shape="rect" id="node23" href="$predicates_8h.html" title="predicates.h" alt="" coords="268,319,362,345"/>
-<area shape="rect" id="node26" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="546,244,612,271"/>
-<area shape="rect" id="node29" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="908,244,991,271"/>
-<area shape="rect" id="node33" href="$time_8h.html" title="time.h" alt="" coords="1487,319,1546,345"/>
-<area shape="rect" id="node35" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="832,319,916,345"/>
-</map>

@@ -1,6 +1,6 @@
 <map id="sst::P2PConnections" name="sst::P2PConnections">
-<area shape="rect" id="node5" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="436,78,541,105"/>
-<area shape="rect" id="node6" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="275,78,387,105"/>
-<area shape="rect" id="node7" href="$namespacesst.html#structsst_1_1cm__con__data__t" title="passive endpoint info to be exchanged. " alt="" coords="5,78,143,105"/>
-<area shape="rect" id="node12" title="STL class. " alt="" coords="915,515,999,542"/>
+<area shape="rect" id="node5" href="$classsst_1_1resources.html" title="A public&#45;facing version of the internal _resources class that extends it with more convenient functio..." alt="" coords="436,80,541,107"/>
+<area shape="rect" id="node6" href="$classsst_1_1__resources.html" title="Represents the set of RDMA resources needed to maintain a two&#45;way connection to a single remote node..." alt="" coords="275,80,387,107"/>
+<area shape="rect" id="node7" href="$namespacesst.html#structsst_1_1cm__con__data__t" title="passive endpoint info to be exchanged. " alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="915,444,999,471"/>
 </map>

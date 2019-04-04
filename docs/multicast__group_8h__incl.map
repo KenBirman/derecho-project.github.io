@@ -1,14 +1,14 @@
 <map id="derecho/multicast_group.h" name="derecho/multicast_group.h">
-<area shape="rect" id="node16" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1869,87,2022,114"/>
-<area shape="rect" id="node22" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1628,169,1756,196"/>
-<area shape="rect" id="node28" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3164,87,3289,114"/>
-<area shape="rect" id="node29" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2444,87,2548,114"/>
-<area shape="rect" id="node33" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2581,169,2654,196"/>
-<area shape="rect" id="node42" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="555,87,650,114"/>
-<area shape="rect" id="node46" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="1377,87,1485,114"/>
-<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="837,169,952,196"/>
-<area shape="rect" id="node18" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1919,244,2070,285"/>
-<area shape="rect" id="node19" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1983,169,2115,196"/>
-<area shape="rect" id="node20" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1378,169,1451,196"/>
-<area shape="rect" id="node43" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="680,169,763,196"/>
+<area shape="rect" id="node16" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1622,87,1775,114"/>
+<area shape="rect" id="node22" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1379,169,1507,196"/>
+<area shape="rect" id="node28" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="3239,87,3364,114"/>
+<area shape="rect" id="node29" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2388,87,2492,114"/>
+<area shape="rect" id="node33" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2674,169,2747,196"/>
+<area shape="rect" id="node42" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="734,87,829,114"/>
+<area shape="rect" id="node46" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="1993,87,2101,114"/>
+<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="987,169,1101,196"/>
+<area shape="rect" id="node18" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1871,244,2022,285"/>
+<area shape="rect" id="node19" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1633,169,1765,196"/>
+<area shape="rect" id="node20" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="731,169,805,196"/>
+<area shape="rect" id="node43" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="880,169,963,196"/>
 </map>

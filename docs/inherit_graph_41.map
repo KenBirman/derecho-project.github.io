@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structderecho_1_1rpc_1_1RemoteInvoker_3_01Tag_00_01std_1_1function_3_01Ret_07Args_8_8_8_08_4_01_4.html" title="Provides functions to implement RPC sends for function calls to a single function, identified by its compile&#45;time &quot;tag&quot; or ID. " alt="" coords="5,5,196,61"/>
+<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvocable\l\&lt; id, FunType \&gt;" alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node2" href="$structderecho_1_1rpc_1_1RemoteInvocablePairs_3_01wrapped_3_01id_00_01FunType_01_4_01_4.html" title="Base case for RemoteInvocablePairs, where the template parameter pack contains only a single wrapped&lt;..." alt="" coords="257,5,476,47"/>
+<area shape="rect" id="node3" href="$structderecho_1_1rpc_1_1RemoteInvocablePairs_3_01wrapped_3_01id_00_01FunType_01_4_00_01rest_8_8_8_01_4.html" title="This struct exists purely to inherit from a series of RemoteInvoker and RemoteInvocables; it inherits..." alt="" coords="265,71,469,127"/>
+<area shape="rect" id="node4" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvocable\lPairs\&lt; rest... \&gt;" alt="" coords="5,136,209,177"/>
+<area shape="rect" id="node5" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvoker\l\&lt; id, FunType \&gt;" alt="" coords="12,5,203,47"/>
 </map>

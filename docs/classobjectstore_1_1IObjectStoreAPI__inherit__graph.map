@@ -1,0 +1,4 @@
+<map id="objectstore::IObjectStoreAPI" name="objectstore::IObjectStoreAPI">
+<area shape="rect" id="node2" href="$classobjectstore_1_1PersistentLoggedObjectStore.html" title="objectstore::PersistentLogged\lObjectStore" alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node3" href="$classobjectstore_1_1VolatileUnloggedObjectStore.html" title="objectstore::VolatileUnlogged\lObjectStore" alt="" coords="224,80,416,121"/>
+</map>

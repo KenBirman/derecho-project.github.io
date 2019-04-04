@@ -9,7 +9,7 @@ var searchData=
   ['pendingresults',['PendingResults',['../classderecho_1_1rpc_1_1PendingResults.html',1,'derecho::rpc']]],
   ['pendingresults_3c_20void_20_3e',['PendingResults&lt; void &gt;',['../classderecho_1_1rpc_1_1PendingResults_3_01void_01_4.html',1,'derecho::rpc']]],
   ['persistencemanager',['PersistenceManager',['../classderecho_1_1PersistenceManager.html',1,'derecho']]],
-  ['persistencemanager_3c_20replicatedtypes_2e_2e_2e_20_3e',['PersistenceManager&lt; ReplicatedTypes... &gt;',['../classderecho_1_1PersistenceManager.html',1,'derecho']]],
+  ['persistentloggedobjectstore',['PersistentLoggedObjectStore',['../classobjectstore_1_1PersistentLoggedObjectStore.html',1,'objectstore']]],
   ['persistentthing',['PersistentThing',['../classPersistentThing.html',1,'']]],
   ['persistsfields',['PersistsFields',['../classderecho_1_1PersistsFields.html',1,'derecho']]],
   ['pfoo',['PFoo',['../classPFoo.html',1,'']]],
@@ -21,6 +21,7 @@ var searchData=
   ['predicatemetadata',['PredicateMetadata',['../namespacesst_1_1predicate__builder.html#structsst_1_1predicate__builder_1_1PredicateMetadata',1,'sst::predicate_builder']]],
   ['predicates',['Predicates',['../classsst_1_1Predicates.html',1,'sst']]],
   ['predicates_3c_20derechosst_20_3e',['Predicates&lt; DerechoSST &gt;',['../classsst_1_1Predicates.html',1,'sst']]],
+  ['predicates_3c_20mlsst_20_3e',['Predicates&lt; MLSST &gt;',['../classsst_1_1Predicates.html',1,'sst']]],
   ['predicates_3c_20multicast_5fsst_20_3e',['Predicates&lt; multicast_sst &gt;',['../classsst_1_1Predicates.html',1,'sst']]],
   ['predicates_3c_20mysst_20_3e',['Predicates&lt; mySST &gt;',['../classsst_1_1Predicates.html',1,'sst']]],
   ['predicates_3c_20resultsst_20_3e',['Predicates&lt; ResultSST &gt;',['../classsst_1_1Predicates.html',1,'sst']]]

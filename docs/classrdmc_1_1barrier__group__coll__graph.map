@@ -1,5 +1,5 @@
 <map id="rdmc::barrier_group" name="rdmc::barrier_group">
-<area shape="rect" id="node3" href="$classrdma_1_1remote__memory__region.html" title="rdma::remote_memory\l_region" alt="" coords="312,31,465,73"/>
+<area shape="rect" id="node3" href="$classrdma_1_1remote__memory__region.html" title="rdma::remote_memory\l_region" alt="" coords="312,33,465,74"/>
 <area shape="rect" id="node5" href="$classrdma_1_1endpoint.html" title="A C++ wrapper for the libfabric fid_ep struct and its associated functions. " alt="" coords="335,100,443,127"/>
 <area shape="rect" id="node10" href="$classrdma_1_1memory__region.html" title="A wrapper for fi_close. " alt="" coords="315,244,463,271"/>
 </map>

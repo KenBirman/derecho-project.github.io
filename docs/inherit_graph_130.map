@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classsst_1_1SSTLogger.html" title="This tiny wrapper class for spdlog::logger allows the log level to be set in the constructor, which is the only way to initialize it statically. " alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node1" href="$classsst_1_1SST.html" title="sst::SST\&lt; MLSST \&gt;" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$classMLSST.html" title="MLSST" alt="" coords="196,5,263,32"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="derecho::rpc::QueryResults&lt; void &gt;::ReplyMap" name="derecho::rpc::QueryResults&lt; void &gt;::ReplyMap">
 <area shape="rect" id="node3" href="$classderecho_1_1rpc_1_1QueryResults.html" title="Data structure that (indirectly) holds a set of futures for a single RPC function call; there is one ..." alt="" coords="195,5,377,47"/>
-<area shape="rect" id="node4" href="$classderecho_1_1rpc_1_1QueryResults_1_1ReplyMap.html" title="derecho::rpc::QueryResults\l\&lt; Ret \&gt;::ReplyMap" alt="" coords="212,109,395,151"/>
+<area shape="rect" id="node4" href="$classderecho_1_1rpc_1_1QueryResults_1_1ReplyMap.html" title="derecho::rpc::QueryResults\l\&lt; Ret \&gt;::ReplyMap" alt="" coords="232,109,415,151"/>
 </map>

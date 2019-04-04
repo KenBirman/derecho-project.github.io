@@ -1,0 +1,18 @@
+<map id="derecho/persistence_manager.cpp" name="derecho/persistence_manager.cpp">
+<area shape="rect" id="node2" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="1039,95,1177,136"/>
+<area shape="rect" id="node9" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1647,639,1775,666"/>
+<area shape="rect" id="node21" href="$replicated_8h.html" title="replicated.h" alt="" coords="1063,184,1153,211"/>
+<area shape="rect" id="node45" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2648,333,2765,360"/>
+<area shape="rect" id="node18" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1098,721,1249,763"/>
+<area shape="rect" id="node24" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="679,729,822,755"/>
+<area shape="rect" id="node26" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="809,483,943,509"/>
+<area shape="rect" id="node33" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1069,557,1152,584"/>
+<area shape="rect" id="node39" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1247,259,1355,285"/>
+<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="949,639,1022,666"/>
+<area shape="rect" id="node40" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="1457,333,1588,360"/>
+<area shape="rect" id="node41" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2234,483,2294,509"/>
+<area shape="rect" id="node42" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2411,557,2536,584"/>
+<area shape="rect" id="node44" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2409,639,2524,666"/>
+<area shape="rect" id="node47" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3270,483,3402,509"/>
+<area shape="rect" id="node48" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2584,408,2691,435"/>
+</map>

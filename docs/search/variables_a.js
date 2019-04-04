@@ -5,6 +5,5 @@ var searchData=
   ['joiner_5fips',['joiner_ips',['../classderecho_1_1DerechoSST.html#a4b9bdaa3fe2e110803d6f60b5a4edd32',1,'derecho::DerechoSST']]],
   ['joiner_5frdmc_5fports',['joiner_rdmc_ports',['../classderecho_1_1DerechoSST.html#a96ebc28a0134fb8b7da5dafb71d0cc0a',1,'derecho::DerechoSST']]],
   ['joiner_5frpc_5fports',['joiner_rpc_ports',['../classderecho_1_1DerechoSST.html#a35fa73c111cf3ffed0b72050b7b98138',1,'derecho::DerechoSST']]],
-  ['joiner_5fsst_5fports',['joiner_sst_ports',['../classderecho_1_1DerechoSST.html#a2c1d9088eb892d3c8f78c7fe7ebf785c',1,'derecho::DerechoSST']]],
-  ['joining_5fclient_5fid',['joining_client_id',['../classderecho_1_1ViewManager.html#a91605dc4d900beb2a914c1d7a3ddcc1d',1,'derecho::ViewManager']]]
+  ['joiner_5fsst_5fports',['joiner_sst_ports',['../classderecho_1_1DerechoSST.html#a2c1d9088eb892d3c8f78c7fe7ebf785c',1,'derecho::DerechoSST']]]
 ];

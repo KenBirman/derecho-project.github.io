@@ -1,9 +1,9 @@
 <map id="applications/archive/count_write.cpp" name="applications/archive/count_write.cpp">
-<area shape="rect" id="node8" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="815,244,922,271"/>
-<area shape="rect" id="node15" href="$sst_8h.html" title="sst/sst.h" alt="" coords="817,95,891,121"/>
-<area shape="rect" id="node25" href="$predicates_8h.html" title="predicates.h" alt="" coords="975,244,1069,271"/>
-<area shape="rect" id="node28" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1401,244,1441,271"/>
-<area shape="rect" id="node31" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="310,169,393,196"/>
-<area shape="rect" id="node30" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1280,319,1431,360"/>
-<area shape="rect" id="node34" href="$time_8h.html" title="time.h" alt="" coords="102,244,161,271"/>
+<area shape="rect" id="node8" href="$poll__utils_8h.html" title="sst/poll_utils.h" alt="" coords="583,244,690,271"/>
+<area shape="rect" id="node15" href="$sst_8h.html" title="sst/sst.h" alt="" coords="895,95,968,121"/>
+<area shape="rect" id="node26" href="$predicates_8h.html" title="predicates.h" alt="" coords="815,244,909,271"/>
+<area shape="rect" id="node29" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="255,244,295,271"/>
+<area shape="rect" id="node32" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="890,169,973,196"/>
+<area shape="rect" id="node31" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="200,319,351,360"/>
+<area shape="rect" id="node35" href="$time_8h.html" title="time.h" alt="" coords="1343,244,1402,271"/>
 </map>

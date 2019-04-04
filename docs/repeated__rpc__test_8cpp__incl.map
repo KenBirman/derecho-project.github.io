@@ -1,19 +1,19 @@
 <map id="applications/archive/repeated_rpc_test.cpp" name="applications/archive/repeated_rpc_test.cpp">
-<area shape="rect" id="node3" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2361,169,2490,196"/>
-<area shape="rect" id="node50" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="3211,95,3315,121"/>
-<area shape="rect" id="node4" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="450,714,593,741"/>
-<area shape="rect" id="node7" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2275,625,2403,651"/>
-<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1953,707,2103,748"/>
-<area shape="rect" id="node18" href="$group_8h.html" title="group.h" alt="" coords="1789,244,1854,271"/>
-<area shape="rect" id="node41" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="531,625,645,651"/>
-<area shape="rect" id="node46" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="833,468,994,495"/>
-<area shape="rect" id="node47" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="435,543,581,569"/>
-<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1689,625,1762,651"/>
-<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="2145,319,2303,345"/>
-<area shape="rect" id="node33" href="$replicated_8h.html" title="replicated.h" alt="" coords="1581,393,1670,420"/>
-<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1862,468,1970,495"/>
-<area shape="rect" id="node39" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2723,543,2840,569"/>
-<area shape="rect" id="node45" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2216,468,2312,495"/>
-<area shape="rect" id="node36" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1368,543,1451,569"/>
-<area shape="rect" id="node49" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="381,625,507,651"/>
+<area shape="rect" id="node3" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="953,169,1082,196"/>
+<area shape="rect" id="node50" href="$test__objects_8h.html" title="Some ReplicatedObject definitions used by typed_subgroup_test and variants. " alt="" coords="3131,95,3235,121"/>
+<area shape="rect" id="node4" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="399,714,542,741"/>
+<area shape="rect" id="node7" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1909,625,2037,651"/>
+<area shape="rect" id="node15" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1242,707,1393,748"/>
+<area shape="rect" id="node18" href="$group_8h.html" title="group.h" alt="" coords="1175,244,1241,271"/>
+<area shape="rect" id="node41" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="480,625,595,651"/>
+<area shape="rect" id="node46" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="2755,468,2917,495"/>
+<area shape="rect" id="node47" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="296,543,443,569"/>
+<area shape="rect" id="node27" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3171,625,3245,651"/>
+<area shape="rect" id="node28" href="$persistence__manager_8h.html" title="persistence_manager.h" alt="" coords="1456,319,1613,345"/>
+<area shape="rect" id="node33" href="$replicated_8h.html" title="replicated.h" alt="" coords="2350,393,2439,420"/>
+<area shape="rect" id="node34" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1615,468,1723,495"/>
+<area shape="rect" id="node39" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1109,543,1227,569"/>
+<area shape="rect" id="node45" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2533,468,2629,495"/>
+<area shape="rect" id="node36" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="2179,543,2261,569"/>
+<area shape="rect" id="node49" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="331,625,456,651"/>
 </map>

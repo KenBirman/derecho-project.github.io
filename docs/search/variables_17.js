@@ -8,5 +8,6 @@ var searchData=
   ['wrapped_5fthis',['wrapped_this',['../classderecho_1_1Replicated.html#a264b6eec66d28af15f801e790ab1290c',1,'derecho::Replicated::wrapped_this()'],['../classderecho_1_1ExternalCaller.html#af4f832a961e2576822c081a5576b210a',1,'derecho::ExternalCaller::wrapped_this()']]],
   ['write',['write',['../namespacerdma.html#a95b9689b3e87fa4f35061b97515a7209',1,'rdma::completion_handler_set']]],
   ['write_5fbuf',['write_buf',['../classsst_1_1__resources.html#a786a90ed170ab29bb814e3a36a68f7a1',1,'sst::_resources']]],
-  ['write_5fmr',['write_mr',['../classsst_1_1__resources.html#ab8b2f14109c27f67cb7144d1f0e892a4',1,'sst::_resources::write_mr()'],['../classsst_1_1__resources.html#a8d919005b4c06d0c35417ad6610d0649',1,'sst::_resources::write_mr()']]]
+  ['write_5fmr',['write_mr',['../classsst_1_1__resources.html#ab8b2f14109c27f67cb7144d1f0e892a4',1,'sst::_resources::write_mr()'],['../classsst_1_1__resources.html#a8d919005b4c06d0c35417ad6610d0649',1,'sst::_resources::write_mr()']]],
+  ['write_5fmutex',['write_mutex',['../classobjectstore_1_1ObjectStoreService.html#a56cd53c4a3b9a3cd8a3486a5e404cbe5',1,'objectstore::ObjectStoreService']]]
 ];

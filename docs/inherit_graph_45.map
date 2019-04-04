@@ -1,4 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvokers\l\&lt; WrappedFuns... \&gt;" alt="" coords="5,13,204,54"/>
-<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RemoteInvokerForClass.html" title="Transforms a class into an RPC client for the methods of that class, given a place to store RPC messa..." alt="" coords="252,5,443,61"/>
+<area shape="rect" id="node1" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvoker\l\&lt; Tag, FunType \&gt;" alt="" coords="9,9,200,51"/>
+<area shape="rect" id="node2" href="$structderecho_1_1rpc_1_1RemoteInvokers_3_01wrapped_3_01Tag_00_01FunType_01_4_01_4.html" title="Base case for RemoteInvokers, where the template parameter pack contains only a single wrapped&lt;id..." alt="" coords="252,5,452,47"/>
+<area shape="rect" id="node3" href="$structderecho_1_1rpc_1_1RemoteInvokers_3_01wrapped_3_01Tag_00_01FunType_01_4_00_01RestWrapped_8_8_8_01_4.html" title="This struct exists purely to inherit from a list of RemoteInvokers, one for each wrapped&lt;&gt; type in it..." alt="" coords="253,71,451,127"/>
+<area shape="rect" id="node4" href="$namespacederecho_1_1rpc.html" title="derecho::rpc::RemoteInvokers\l\&lt; RestWrapped... \&gt;" alt="" coords="5,79,204,120"/>
 </map>

@@ -1,11 +1,11 @@
 <map id="applications/archive/multicast_throughput.cpp" name="applications/archive/multicast_throughput.cpp">
 <area shape="rect" id="node9" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="415,102,523,129"/>
-<area shape="rect" id="node39" href="$multicast__sst_8h.html" title="sst/multicast_sst.h" alt="" coords="844,102,977,129"/>
-<area shape="rect" id="node15" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1018,184,1091,211"/>
-<area shape="rect" id="node25" href="$predicates_8h.html" title="predicates.h" alt="" coords="1580,333,1673,360"/>
-<area shape="rect" id="node28" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="396,333,436,360"/>
-<area shape="rect" id="node31" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1229,259,1312,285"/>
-<area shape="rect" id="node30" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="485,408,635,449"/>
-<area shape="rect" id="node34" href="$time_8h.html" title="time.h" alt="" coords="1321,333,1380,360"/>
-<area shape="rect" id="node37" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1111,333,1195,360"/>
+<area shape="rect" id="node40" href="$multicast__sst_8h.html" title="sst/multicast_sst.h" alt="" coords="887,102,1020,129"/>
+<area shape="rect" id="node15" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1090,184,1163,211"/>
+<area shape="rect" id="node26" href="$predicates_8h.html" title="predicates.h" alt="" coords="1613,333,1707,360"/>
+<area shape="rect" id="node29" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="396,333,436,360"/>
+<area shape="rect" id="node32" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1355,259,1437,285"/>
+<area shape="rect" id="node31" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="485,408,635,449"/>
+<area shape="rect" id="node35" href="$time_8h.html" title="time.h" alt="" coords="1355,333,1413,360"/>
+<area shape="rect" id="node38" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1145,333,1229,360"/>
 </map>

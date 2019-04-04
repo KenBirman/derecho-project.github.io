@@ -3,7 +3,7 @@
 <area shape="rect" id="node12" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1765,713,1929,740"/>
 <area shape="rect" id="node30" href="$classsst_1_1multicast__group.html" title="sst::multicast_group\l\&lt; derecho::DerechoSST \&gt;" alt="" coords="561,1135,736,1177"/>
 <area shape="rect" id="node19" href="$namespacederecho.html#structderecho_1_1RDMCMessage" title="A structure containing an RDMC message (which consists of some bytes in a registered memory region) a..." alt="" coords="563,876,734,903"/>
-<area shape="rect" id="node20" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,791,416,817"/>
+<area shape="rect" id="node20" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,735,416,761"/>
 <area shape="rect" id="node23" href="$namespacederecho.html#structderecho_1_1CallbackSet" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1343,621,1490,648"/>
 <area shape="rect" id="node32" title="STL class. " alt="" coords="292,1240,376,1267"/>
 </map>

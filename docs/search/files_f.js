@@ -10,6 +10,7 @@ var searchData=
   ['sequential_5fremote_5fwrite_2ecpp',['sequential_remote_write.cpp',['../sequential__remote__write_8cpp.html',1,'']]],
   ['server_5fclient_5fp2p_2ecpp',['server_client_p2p.cpp',['../server__client__p2p_8cpp.html',1,'']]],
   ['shard_5fiterator_5fp2p_5ftest_2ecpp',['shard_iterator_p2p_test.cpp',['../shard__iterator__p2p__test_8cpp.html',1,'']]],
+  ['simple_5fdata_5fdistribution_5fservice_2ecpp',['simple_data_distribution_service.cpp',['../simple__data__distribution__service_8cpp.html',1,'']]],
   ['simple_5fpredicate_2ecpp',['simple_predicate.cpp',['../simple__predicate_8cpp.html',1,'']]],
   ['simple_5freplicated_5fobjects_2ecpp',['simple_replicated_objects.cpp',['../simple__replicated__objects_8cpp.html',1,'']]],
   ['simple_5fsend_2ecpp',['simple_send.cpp',['../simple__send_8cpp.html',1,'']]],

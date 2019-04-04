@@ -1,19 +1,19 @@
 <map id="applications/archive/window_size_test.cpp" name="applications/archive/window_size_test.cpp">
-<area shape="rect" id="node4" href="$time_8h.html" title="time.h" alt="" coords="830,333,888,360"/>
-<area shape="rect" id="node8" href="$archive_2aggregate__bandwidth_8h.html" title="aggregate_bandwidth.h" alt="" coords="84,95,240,121"/>
-<area shape="rect" id="node31" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2436,169,2565,196"/>
-<area shape="rect" id="node47" href="$archive_2log__results_8h.html" title="log_results.h" alt="" coords="919,95,1015,121"/>
-<area shape="rect" id="node48" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="2110,251,2205,278"/>
-<area shape="rect" id="node9" href="$sst_8h.html" title="sst/sst.h" alt="" coords="578,169,652,196"/>
-<area shape="rect" id="node23" href="$predicates_8h.html" title="predicates.h" alt="" coords="662,333,755,360"/>
-<area shape="rect" id="node25" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="2031,251,2071,278"/>
-<area shape="rect" id="node28" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="478,251,560,278"/>
-<area shape="rect" id="node27" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="2322,408,2473,449"/>
-<area shape="rect" id="node32" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1246,415,1389,442"/>
-<area shape="rect" id="node34" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2618,333,2746,360"/>
-<area shape="rect" id="node39" href="$group_8h.html" title="group.h" alt="" coords="1332,251,1397,278"/>
-<area shape="rect" id="node42" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1740,333,1855,360"/>
-<area shape="rect" id="node43" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="2850,251,3012,278"/>
-<area shape="rect" id="node44" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2608,251,2755,278"/>
-<area shape="rect" id="node49" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="2132,333,2215,360"/>
+<area shape="rect" id="node4" href="$time_8h.html" title="time.h" alt="" coords="1319,333,1377,360"/>
+<area shape="rect" id="node8" href="$archive_2aggregate__bandwidth_8h.html" title="aggregate_bandwidth.h" alt="" coords="205,95,361,121"/>
+<area shape="rect" id="node32" href="$derecho_8h.html" title="derecho/derecho.h" alt="" coords="2197,169,2326,196"/>
+<area shape="rect" id="node47" href="$archive_2log__results_8h.html" title="log_results.h" alt="" coords="33,95,129,121"/>
+<area shape="rect" id="node48" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="2359,251,2454,278"/>
+<area shape="rect" id="node9" href="$sst_8h.html" title="sst/sst.h" alt="" coords="859,169,933,196"/>
+<area shape="rect" id="node24" href="$predicates_8h.html" title="predicates.h" alt="" coords="1201,333,1295,360"/>
+<area shape="rect" id="node26" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="2479,251,2519,278"/>
+<area shape="rect" id="node29" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="713,251,796,278"/>
+<area shape="rect" id="node28" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="3105,408,3255,449"/>
+<area shape="rect" id="node33" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1825,415,1967,442"/>
+<area shape="rect" id="node35" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2663,333,2791,360"/>
+<area shape="rect" id="node40" href="$group_8h.html" title="group.h" alt="" coords="1601,251,1666,278"/>
+<area shape="rect" id="node42" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1961,333,2076,360"/>
+<area shape="rect" id="node43" href="$register__rpc__functions_8h.html" title="register_rpc_functions.h" alt="" coords="2543,251,2705,278"/>
+<area shape="rect" id="node44" href="$subgroup__functions_8h.html" title="subgroup_functions.h" alt="" coords="2188,251,2335,278"/>
+<area shape="rect" id="node49" href="$lf__helper_8h.html" title="lf_helper.h" alt="" coords="2404,333,2487,360"/>
 </map>

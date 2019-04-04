@@ -1,10 +1,10 @@
 <map id="applications/archive/write_avg_time.cpp" name="applications/archive/write_avg_time.cpp">
-<area shape="rect" id="node7" href="$compute__nodes__list_8h.html" title="compute_nodes_list.h" alt="" coords="226,95,376,121"/>
-<area shape="rect" id="node9" href="$sst_8h.html" title="sst/sst.h" alt="" coords="767,95,840,121"/>
-<area shape="rect" id="node25" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1604,169,1644,196"/>
-<area shape="rect" id="node22" href="$predicates_8h.html" title="predicates.h" alt="" coords="524,251,617,278"/>
-<area shape="rect" id="node28" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1054,169,1137,196"/>
-<area shape="rect" id="node27" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1692,244,1843,285"/>
-<area shape="rect" id="node31" href="$time_8h.html" title="time.h" alt="" coords="790,251,849,278"/>
-<area shape="rect" id="node34" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1207,251,1291,278"/>
+<area shape="rect" id="node7" href="$compute__nodes__list_8h.html" title="compute_nodes_list.h" alt="" coords="5,95,155,121"/>
+<area shape="rect" id="node9" href="$sst_8h.html" title="sst/sst.h" alt="" coords="837,95,910,121"/>
+<area shape="rect" id="node26" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1667,169,1707,196"/>
+<area shape="rect" id="node23" href="$predicates_8h.html" title="predicates.h" alt="" coords="631,251,724,278"/>
+<area shape="rect" id="node29" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="1160,169,1243,196"/>
+<area shape="rect" id="node28" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1801,244,1951,285"/>
+<area shape="rect" id="node32" href="$time_8h.html" title="time.h" alt="" coords="899,251,957,278"/>
+<area shape="rect" id="node35" href="$poll__utils_8h.html" title="poll_utils.h" alt="" coords="1315,251,1399,278"/>
 </map>

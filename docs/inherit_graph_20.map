@@ -1,3 +1,35 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structderecho_1_1RawObject.html" title="An empty class to be used as the &quot;replicated type&quot; for a subgroup that doesn&#39;t implement a Replicated..." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$classBar.html" title="Another example replicated object, where the serializable state is not a POD. " alt="" coords="319,998,361,1025"/>
+<area shape="rect" id="node3" href="$classBlob.html" title="Blob" alt="" coords="316,1049,364,1075"/>
+<area shape="rect" id="node4" href="$classByteArrayObject.html" title="Non&#45;Persitent Object with vairable sizes. " alt="" coords="281,187,399,214"/>
+<area shape="rect" id="node5" href="$structBytes.html" title="Bytes" alt="" coords="312,1099,368,1126"/>
+<area shape="rect" id="node6" href="$classCache.html" title="An example replicated object formatted like a key&#45;value cache, where both keys and values are strings..." alt="" coords="310,1150,370,1177"/>
+<area shape="rect" id="node7" href="$classConstTest.html" title="ConstTest" alt="" coords="299,1201,381,1227"/>
+<area shape="rect" id="node8" href="$classCookedMessages.html" title="CookedMessages" alt="" coords="277,1251,403,1278"/>
+<area shape="rect" id="node9" href="$structderecho_1_1Bytes.html" title="derecho::Bytes" alt="" coords="285,238,395,265"/>
+<area shape="rect" id="node10" href="$structderecho_1_1DerechoParams.html" title="Bundles together a set of low&#45;level parameters for configuring Derecho groups. " alt="" coords="255,1302,425,1329"/>
+<area shape="rect" id="node11" href="$structderecho_1_1RaggedTrim.html" title="Represents the data needed to log a &quot;ragged trim&quot; decision to disk. " alt="" coords="267,1353,413,1379"/>
+<area shape="rect" id="node12" href="$classderecho_1_1SubView.html" title="The subset of a View associated with a single shard, or a single subgroup if the subgroup is non&#45;shar..." alt="" coords="276,441,404,467"/>
+<area shape="rect" id="node13" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="287,491,393,518"/>
+<area shape="rect" id="node14" href="$classFoo.html" title="Example replicated object, containing some serializable state and providing two RPC methods..." alt="" coords="318,542,362,569"/>
+<area shape="rect" id="node15" href="$classHashTable.html" title="HashTable\&lt; DataType \&gt;" alt="" coords="257,137,423,163"/>
+<area shape="rect" id="node16" href="$classIntegerWithDelta.html" title="IntegerWithDelta" alt="" coords="280,1470,400,1497"/>
+<area shape="rect" id="node17" href="$classLoadBalancer.html" title="LoadBalancer" alt="" coords="289,593,391,619"/>
+<area shape="rect" id="node18" href="$classobjectstore_1_1DeltaObjectStoreCore.html" title="objectstore::DeltaObject\lStoreCore" alt="" coords="259,1404,421,1445"/>
+<area shape="rect" id="node19" href="$classobjectstore_1_1PersistentLoggedObjectStore.html" title="objectstore::PersistentLogged\lObjectStore" alt="" coords="243,71,437,112"/>
+<area shape="rect" id="node20" href="$classobjectstore_1_1VolatileUnloggedObjectStore.html" title="objectstore::VolatileUnlogged\lObjectStore" alt="" coords="244,5,436,47"/>
+<area shape="rect" id="node21" href="$classObjStore.html" title="ObjStore" alt="" coords="303,289,377,315"/>
+<area shape="rect" id="node22" href="$classOSObject.html" title="OSObject" alt="" coords="301,643,379,670"/>
+<area shape="rect" id="node23" href="$classPersistentThing.html" title="PersistentThing" alt="" coords="283,339,397,366"/>
+<area shape="rect" id="node24" href="$classPFoo.html" title="Example for replicated object with Persistent&lt;T&gt; " alt="" coords="313,390,367,417"/>
+<area shape="rect" id="node25" href="$classReferenceTest.html" title="ReferenceTest" alt="" coords="286,694,394,721"/>
+<area shape="rect" id="node26" href="$classServer.html" title="Server" alt="" coords="310,745,370,771"/>
+<area shape="rect" id="node27" href="$classState.html" title="A simple class that maintains a single variable. " alt="" coords="313,795,367,822"/>
+<area shape="rect" id="node28" href="$classStringObject.html" title="StringObject" alt="" coords="293,846,387,873"/>
+<area shape="rect" id="node29" href="$classTestThing.html" title="TestThing" alt="" coords="300,897,380,923"/>
+<area shape="rect" id="node30" href="$classVariableBytes.html" title="VariableBytes" alt="" coords="289,947,391,974"/>
+<area shape="rect" id="node31" href="$classderecho_1_1GroupReference.html" title="derecho::GroupReference" alt="" coords="15,114,185,141"/>
+<area shape="rect" id="node33" href="$classobjectstore_1_1IObjectStoreAPI.html" title="objectstore::IObjectStoreAPI" alt="" coords="5,13,195,39"/>
+<area shape="rect" id="node34" href="$classobjectstore_1_1IReplica.html" title="objectstore::IReplica" alt="" coords="29,63,171,90"/>
+<area shape="rect" id="node35" href="$classderecho_1_1PersistsFields.html" title="This is a marker interface for user&#45;defined Replicated Objects (i.e. " alt="" coords="21,263,179,290"/>
 </map>

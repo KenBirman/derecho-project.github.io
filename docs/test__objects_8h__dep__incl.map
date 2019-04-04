@@ -1,7 +1,7 @@
 <map id="applications/archive/test_objects.h" name="applications/archive/test_objects.h">
 <area shape="rect" id="node2" href="$long__subgroup__test_8cpp.html" title="applications/archive\l/long_subgroup_test.cpp" alt="" coords="5,95,169,136"/>
-<area shape="rect" id="node3" href="$p2p__query__test_8cpp.html" title="applications/archive\l/p2p_query_test.cpp" alt="" coords="193,95,333,136"/>
-<area shape="rect" id="node4" href="$repeated__rpc__test_8cpp.html" title="applications/archive\l/repeated_rpc_test.cpp" alt="" coords="358,95,513,136"/>
-<area shape="rect" id="node5" href="$scaling__subgroup__test_8cpp.html" title="applications/archive\l/scaling_subgroup_test.cpp" alt="" coords="537,95,718,136"/>
-<area shape="rect" id="node6" href="$typed__subgroup__test_8cpp.html" title="applications/archive\l/typed_subgroup_test.cpp" alt="" coords="743,95,915,136"/>
+<area shape="rect" id="node3" href="$p2p__send__test_8cpp.html" title="applications/archive\l/p2p_send_test.cpp" alt="" coords="193,95,331,136"/>
+<area shape="rect" id="node4" href="$repeated__rpc__test_8cpp.html" title="applications/archive\l/repeated_rpc_test.cpp" alt="" coords="355,95,510,136"/>
+<area shape="rect" id="node5" href="$scaling__subgroup__test_8cpp.html" title="applications/archive\l/scaling_subgroup_test.cpp" alt="" coords="534,95,715,136"/>
+<area shape="rect" id="node6" href="$typed__subgroup__test_8cpp.html" title="applications/archive\l/typed_subgroup_test.cpp" alt="" coords="740,95,912,136"/>
 </map>

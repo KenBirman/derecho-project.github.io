@@ -1,17 +1,17 @@
 <map id="derecho/rpc_manager.h" name="derecho/rpc_manager.h">
-<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2979,475,3107,502"/>
-<area shape="rect" id="node14" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1041,632,1191,673"/>
-<area shape="rect" id="node18" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="1209,475,1340,502"/>
-<area shape="rect" id="node24" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="513,304,647,331"/>
-<area shape="rect" id="node30" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1179,386,1261,413"/>
-<area shape="rect" id="node38" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1931,229,1991,256"/>
-<area shape="rect" id="node47" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2527,80,2644,107"/>
-<area shape="rect" id="node22" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="1301,557,1363,584"/>
-<area shape="rect" id="node39" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1627,386,1752,413"/>
-<area shape="rect" id="node40" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2523,386,2627,413"/>
-<area shape="rect" id="node42" href="$sst_8h.html" title="sst/sst.h" alt="" coords="1365,475,1438,502"/>
-<area shape="rect" id="node43" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2119,304,2244,331"/>
-<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2249,475,2364,502"/>
-<area shape="rect" id="node49" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3481,229,3613,256"/>
-<area shape="rect" id="node50" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2532,155,2639,181"/>
+<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1915,475,2043,502"/>
+<area shape="rect" id="node14" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1578,632,1729,673"/>
+<area shape="rect" id="node18" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="3371,475,3501,502"/>
+<area shape="rect" id="node24" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="583,304,718,331"/>
+<area shape="rect" id="node31" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="824,386,907,413"/>
+<area shape="rect" id="node39" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1811,229,1871,256"/>
+<area shape="rect" id="node47" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1783,80,1900,107"/>
+<area shape="rect" id="node22" href="$lf_8h.html" title="Contains declarations needed for working with RDMA using LibFabric libraries, including the Resources..." alt="" coords="3315,557,3378,584"/>
+<area shape="rect" id="node40" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="1779,386,1904,413"/>
+<area shape="rect" id="node41" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2776,386,2880,413"/>
+<area shape="rect" id="node42" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2867,475,2941,502"/>
+<area shape="rect" id="node44" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2272,304,2397,331"/>
+<area shape="rect" id="node46" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2179,475,2293,502"/>
+<area shape="rect" id="node49" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3622,229,3754,256"/>
+<area shape="rect" id="node50" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2559,155,2665,181"/>
 </map>

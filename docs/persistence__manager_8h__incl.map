@@ -1,17 +1,17 @@
 <map id="derecho/persistence_manager.h" name="derecho/persistence_manager.h">
-<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2297,550,2425,577"/>
-<area shape="rect" id="node20" href="$replicated_8h.html" title="replicated.h" alt="" coords="783,95,873,121"/>
-<area shape="rect" id="node44" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2492,244,2609,271"/>
-<area shape="rect" id="node17" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="749,632,899,673"/>
-<area shape="rect" id="node23" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="307,639,450,666"/>
-<area shape="rect" id="node25" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="1035,393,1170,420"/>
-<area shape="rect" id="node31" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="681,468,764,495"/>
-<area shape="rect" id="node38" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1470,169,1578,196"/>
-<area shape="rect" id="node49" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="555,550,629,577"/>
-<area shape="rect" id="node39" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="1341,244,1472,271"/>
-<area shape="rect" id="node40" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2403,393,2463,420"/>
-<area shape="rect" id="node41" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2169,468,2295,495"/>
-<area shape="rect" id="node43" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2108,550,2223,577"/>
-<area shape="rect" id="node46" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3375,393,3507,420"/>
-<area shape="rect" id="node47" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2543,319,2649,345"/>
+<area shape="rect" id="node8" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="2488,550,2616,577"/>
+<area shape="rect" id="node20" href="$replicated_8h.html" title="replicated.h" alt="" coords="1436,95,1525,121"/>
+<area shape="rect" id="node45" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="2627,244,2744,271"/>
+<area shape="rect" id="node17" href="$derecho__type__definitions_8h.html" title="derecho/derecho_type\l_definitions.h" alt="" coords="1021,632,1172,673"/>
+<area shape="rect" id="node23" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="512,639,654,666"/>
+<area shape="rect" id="node25" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="770,393,905,420"/>
+<area shape="rect" id="node32" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="1076,468,1159,495"/>
+<area shape="rect" id="node39" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="1364,169,1472,196"/>
+<area shape="rect" id="node50" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="934,550,1008,577"/>
+<area shape="rect" id="node40" href="$p2p__connections_8h.html" title="p2p_connections.h" alt="" coords="1436,244,1567,271"/>
+<area shape="rect" id="node41" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2476,393,2536,420"/>
+<area shape="rect" id="node42" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2174,468,2299,495"/>
+<area shape="rect" id="node44" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="2350,550,2464,577"/>
+<area shape="rect" id="node47" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="3337,393,3469,420"/>
+<area shape="rect" id="node48" href="$restart__state_8h.html" title="restart_state.h" alt="" coords="2678,319,2784,345"/>
 </map>
