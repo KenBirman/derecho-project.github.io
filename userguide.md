@@ -3,6 +3,9 @@
 ## Installation
 Derecho is a library that helps you build replicated, fault-tolerant services in a datacenter with RDMA networking. Here's how to start using it in your projects.
 
+### Background
+This document assumes that you already know more or less what Derecho is about.  But we've written a paper that includes lots of detail, including our problem context and motivation, design choices, etc.  In fact the paper even explains the protocols and presents experimental results on various platforms.  It came out in in the April 2019 issue of ACM Transactions on Computer Systems:  http://www.cs.cornell.edu/ken/derecho-tocs.pdf
+
 ### Prerequisites
 * Linux (other operating systems don't currently support the RDMA features we use)
 * A C++ compiler supporting C++17: GCC 7.3+ or Clang 7+
